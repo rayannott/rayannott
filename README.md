@@ -8,7 +8,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 | Sep 2007 - Aug 2018 |  Liceum 146, Kazan | just a normal high school | [-link-](https://edu.tatar.ru/nsav/licey146) |
 | Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  ${\color{LimeGreen}\text{BSc}}$ Applied Mathematics and Physics (4.74/5.00) | [mipt.ru](https://mipt.ru/english/) |
 | Oct 2022 - Mar 2025 (expected) | Technical University of Munich | ${\color{LimeGreen}\text{MSc}}$ Computational Science and Engineering (Informatics) | [tum.de](https://www.tum.de/en/) |
-
+<!-- |.|.|.| -->
 
 ## **Work, research and more** 👨‍🔬
 ### Work
@@ -25,7 +25,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 <!-- |.|.|.| -->
 (more to come!)
 
-### Events
+### Events 
 I participated in the following cool events: ...
 <!-- IAC2022  HackaTUM22 R&Stour HackaTUM23-->
 
@@ -82,6 +82,8 @@ Here are _some_ courses I took during my studies.
 - Differential Equations
 - Partial Differential Equations (Mathematical Physics)
 - Numerical Analysis
+- Complex Analysis
+- Mathematical Modelling
 #### Physics
 - Mechanics
 - Thermodynamics
@@ -102,13 +104,14 @@ Here are _some_ courses I took during my studies.
 - Parallel Programming
 
 
-## **Interests** 🙂
+## **Interests** 🎨
 I like and sometimes do these things: ...
 - piano (check out [this clip](https://youtube.com/clip/UgkxlRIhGJqhNfKIHo6oJgLqtGlehYs2RzR_?si=ztX3tDY_P7VGRzS1 "Chopin - Nocturne Op. 9 No. 2")) and guitar
 - digital photography (search `#ph` hashtag in my personal [Telegram channel](https://t.me/meinluftschloss))
 - teaching
 - coding (algorithms, puzzle games, ...); especially: writing unreadable one-liners in Python
 - swimming, cycling and hiking
+
 
 ## **How to reach me** 📫
 - ✉️ send me an email: airat.valiullin@tum.de
