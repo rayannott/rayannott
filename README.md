@@ -2,7 +2,7 @@
 You've reached my personal GitHub page!\
 Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 
-## **Education** 🏫
+## **Education** 🎓
 |        Period       |      School   |  Programm | Website |
 |:-------------------:|:-------------:|:------:|:-----:|
 | Sep 2007 - Aug 2018 |  Liceum 146, Kazan | just a normal high school | [-link-](https://edu.tatar.ru/nsav/licey146) |
@@ -10,8 +10,8 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 | Oct 2022 - Mar 2025 (expected) | Technical University of Munich | ${\color{LimeGreen}\text{MSc}}$ Computational Science and Engineering (Informatics) | [tum.de](https://www.tum.de/en/) |
 <!-- |.|.|.| -->
 
-## **Work, research and more** 👨‍🔬
-### Work
+## **Work, research and more** 🧑‍💻
+### Work Experience
 | Period | Company | Position |
 | :-: | :-: | :-: |
 |.|.|.|
@@ -25,12 +25,12 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 <!-- |.|.|.| -->
 (more to come!)
 
-### Events 
+### Events
 I participated in the following cool events: ...
 <!-- IAC2022  HackaTUM22 R&Stour HackaTUM23-->
 
 
-## **Skills** 🥇
+## **Skills** 📚
 ### Human Languages
 | Language   |  Level |
 |----------|:-------:|
@@ -39,7 +39,7 @@ I participated in the following cool events: ...
 | Russian | native |
 | Tatar | native |
 
-### Technical
+### Technical Skills
 _I'm not a big fan of how this section looks. Please, submit your formatting suggestion here: https://github.com/rayannott/rayannott/issues._
 
 Colour coding: 
@@ -73,8 +73,8 @@ Colour coding:
 - 🔵 Docker
 - 🔵 Figma
 
-### Theoretical
-Here are _some_ courses I took during my studies.
+### Theoretical Skills
+Here are _some_ courses I took during my studies. 
 #### Mathematics
 - Calculus I/II/III
 - Linear Algebra
@@ -97,7 +97,7 @@ Here are _some_ courses I took during my studies.
 - Quantum Mechanics
 - Statistical Physics
 - Control Theory
-#### Informatics
+#### Informatics and Computer Science
 - Machine Learning
 - Deep Learning
 - Algorithms and Data Structures
