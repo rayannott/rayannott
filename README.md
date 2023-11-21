@@ -31,7 +31,7 @@ ${\color{Orchid}\text{expert}}$,
 ${\color{Green}\text{proficient}}$, 
 ${\color{Orange}\text{advanced}}$, 
 ${\color{Turquoise}\text{competent}}$, 
-${\color{Gray}\text{beginner}}$.
+${\color{Grey}\text{beginner}}$
 
 #### Programming languages
 - Python
