@@ -3,8 +3,11 @@ You've reached my personal GitHub page!\
 Let this `README.md` be my CV-demo 😉 (not sure it's supposed to be that though)
 
 ### **Education** 🏫
-I studied here and there
-
+|        Period       |      School   |  Notes | Website |
+|:-------------------:|:-------------:|:------:|:-----:|
+| Sep 2007 - Aug 2018 |  Liceum 146, Kazan | just a normal high school | [-link-](https://edu.tatar.ru/nsav/licey146) |
+| Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  <span style="color:green">BSc</span> _Applied Mathematics and Physics_ (4.74/5.00) | [mipt.ru](https://mipt.ru/english/) |
+| Oct 2022 - Mar 2025 | Technical University of Munich |  <span style="color:green">MSc</span> _Computational Science and Engineering_ (Informatics) | [tum.de](https://www.tum.de/en/) |
 
 ### **Work, research and more** 👨‍🔬
 #### Work
