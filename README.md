@@ -27,11 +27,7 @@ I participated in the following cool events: ...
 ## **Skills** 🥇
 ### Technical
 Colour coding: 
-${\color{Orchid}\text{expert}}$,
-${\color{Green}\text{proficient}}$, 
-${\color{Orange}\text{advanced}}$, 
-${\color{Turquoise}\text{competent}}$, 
-${\color{Turquoise}\text{beginner}}$
+${\color{Orchid}\text{expert}}$, ${\color{Green}\text{proficient}}$, ${\color{Orange}\text{advanced}}$, ${\color{Turquoise}\text{competent}}$, ${\color{Grey}\text{beginner}}$
 
 #### Programming languages
 - Python
