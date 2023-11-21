@@ -1,13 +1,13 @@
-# Hi there 👋
+# Airat Valiullin 👋
 You've reached my personal GitHub page!\
-Let this `README.md` be my CV-demo 😉 (not sure it's supposed to be that though)
+Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 
 ## **Education** 🏫
 |        Period       |      School   |  Programm | Website |
 |:-------------------:|:-------------:|:------:|:-----:|
 | Sep 2007 - Aug 2018 |  Liceum 146, Kazan | just a normal high school | [-link-](https://edu.tatar.ru/nsav/licey146) |
 | Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  ${\color{LimeGreen}\text{BSc}}$ Applied Mathematics and Physics (4.74/5.00) | [mipt.ru](https://mipt.ru/english/) |
-| Oct 2022 - Mar 2025 (exp) | Technical University of Munich | ${\color{LimeGreen}\text{MSc}}$ Computational Science and Engineering (Informatics) | [tum.de](https://www.tum.de/en/) |
+| Oct 2022 - Mar 2025 (expected) | Technical University of Munich | ${\color{LimeGreen}\text{MSc}}$ Computational Science and Engineering (Informatics) | [tum.de](https://www.tum.de/en/) |
 
 
 ## **Work, research and more** 👨‍🔬
@@ -25,10 +25,17 @@ I participated in the following cool events: ...
 
 
 ## **Skills** 🥇
+### Human Languages
+| Language   |  Level |
+|----------|:-------:|
+| English |  [C1/C2](https://drive.google.com/file/d/1iolYW3rq6XkjpksnMkJvFKeyySMtdwK8/view?usp=sharing "IELTS band 8.0 (view certificate; WARNING: bad photo)") |
+| German | A2/B1 |
+| Russian | native |
+| Tatar | native |
+
 ### Technical
 Colour coding: 
 🟣 ${\color{Orchid}\text{expert}}$,🟢 ${\color{Green}\text{proficient}}$, 🟠 ${\color{Orange}\text{advanced}}$, 🔵 ${\color{lightblue}\text{competent}}$, ⚪ beginner.
-
 #### Programming languages
 - 🟢 Python
     - 🟢 numpy
@@ -39,6 +46,7 @@ Colour coding:
     - 🟠 plotly, plotly dash
     - 🟠 pandas
     - 🟠 pygame, pygame_gui
+    - 🟠 pytest, unittest
     - 🔵 tkinter
     - 🔵 streamlit
     - ⚪ flask
@@ -47,7 +55,6 @@ Colour coding:
 - 🔵 SQL
 - ⚪ R
 - ⚪ Julia
-
 #### Other
 - 🟠 git (GitHub, GitLab)
 - 🟠 LaTeX
@@ -58,19 +65,41 @@ Colour coding:
 - 🔵 Figma
 
 ### Theoretical
-I can math, algorithms, physics, yada yada
-#### Human Languages
-| Language   |  Level |
-|----------|:-------:|
-| English |  [C1/C2](https://drive.google.com/file/d/1iolYW3rq6XkjpksnMkJvFKeyySMtdwK8/view?usp=sharing "IELTS band 8.0 (view certificate; WARNING: bad photo)") |
-| German | A2/B1 |
-| Russian | native |
-| Tatar | native |
+Here are _some_ courses I took during my studies.
+#### Mathematics
+- Calculus I/II/III
+- Linear Algebra
+- Probability Theory and Statistics
+- Differential Equations
+- Partial Differential Equations (Mathematical Physics)
+- Numerical Analysis
+#### Physics
+- Mechanics
+- Thermodynamics
+- Electricity and Magnetism
+- Optics
+- Nuclear Physics
+- Fluid Mechanics
+- Practical Labs (in all of the above)
+- Theoretical Mechanics
+- Solid Body Mechanics
+- Quantum Mechanics
+- Statistical Physics
+- Control Theory
+#### Informatics
+- Machine Learning
+- Deep Learning
+- Algorithms and Data Structures
+- Parallel Programming
 
 
 ## **Interests** 🙂
 I like and sometimes do these things: ...
-
+- piano (check out [this clip](https://youtube.com/clip/UgkxlRIhGJqhNfKIHo6oJgLqtGlehYs2RzR_?si=ztX3tDY_P7VGRzS1 "Chopin - Nocturne Op. 9 No. 2")) and guitar
+- digital photography (search `#ph` hashtag in my personal [Telegram channel](https://t.me/meinluftschloss))
+- teaching
+- coding (algorithms, puzzle games, ...); especially: writing unreadable one-liners in Python
+- swimming, cycling and hiking
 
 ## **How to reach me** 📫
 - ✉️ send me an email: airat.valiullin@tum.de
