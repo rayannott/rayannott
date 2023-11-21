@@ -27,33 +27,35 @@ I participated in the following cool events: ...
 ## **Skills** 🥇
 ### Technical
 Colour coding: 
-${\color{Orchid}\text{expert}}$ 🟣, ${\color{Green}\text{proficient}}$ 🟢, ${\color{Orange}\text{advanced}}$ 🟠, ${\color{lightblue}\text{competent}}$ 🔵, beginner ⚪.
+🟣 ${\color{Orchid}\text{expert}}$,🟢 ${\color{Green}\text{proficient}}$, 🟠 ${\color{Orange}\text{advanced}}$, 🔵 ${\color{lightblue}\text{competent}}$, ⚪ beginner.
 
 #### Programming languages
-- Python
-    - numpy, scipy, sympy
-    - matplotlib
-    - pandas
-    - pytorch
-    - plotly, plotly dash
-    - pygame, pygame_gui
-    - tkinter
-    - streamlit
-    - flask
-- C++
-- MATLAB
-- SQL
-- R
-- Julia
+- 🟢 Python
+    - 🟢 numpy
+    - 🟢 scipy
+    - 🟢 matplotlib
+    - 🟠 pytorch
+    - 🟠 sympy
+    - 🟠 plotly, plotly dash
+    - 🟠 pandas
+    - 🟠 pygame, pygame_gui
+    - 🔵 tkinter
+    - 🔵 streamlit
+    - ⚪ flask
+- 🟠 C++
+- 🔵 MATLAB
+- 🔵 SQL
+- ⚪ R
+- ⚪ Julia
 
 #### Other
-- git (GitHub, GitLab)
-- Linux (Ubuntu)
-- Docker
-- LaTeX
-- SolidWorks
-- MSOffice (duh...)
-- Figma
+- 🟠 git (GitHub, GitLab)
+- 🟠 LaTeX
+- 🟠 SolidWorks
+- 🟠 MSOffice (duh...)
+- 🔵 Linux (Ubuntu)
+- 🔵 Docker
+- 🔵 Figma
 
 ### Theoretical
 I can math, algorithms, physics, yada yada
