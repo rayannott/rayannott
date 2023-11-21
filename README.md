@@ -67,6 +67,7 @@ Colour coding:
 - 🟠 git (GitHub, GitLab)
 - 🟠 LaTeX
 - 🟠 SolidWorks
+- 🟠 VSCode
 - 🟠 MSOffice (duh...)
 - 🔵 Linux (Ubuntu)
 - 🔵 Docker
