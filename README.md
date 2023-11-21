@@ -6,8 +6,8 @@ Let this `README.md` be my CV-demo 😉 (not sure it's supposed to be that thoug
 |        Period       |      School   |  Programm | Website |
 |:-------------------:|:-------------:|:------:|:-----:|
 | Sep 2007 - Aug 2018 |  Liceum 146, Kazan | just a normal high school | [-link-](https://edu.tatar.ru/nsav/licey146) |
-| Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  <span style="color:green">BSc</span> _Applied Mathematics and Physics_ (4.74/5.00) | [mipt.ru](https://mipt.ru/english/) |
-| Oct 2022 - Mar 2025 (exp) | Technical University of Munich |  <span style="color:green">MSc</span> _Computational Science and Engineering_ (Informatics) | [tum.de](https://www.tum.de/en/) |
+| Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  ${\color{LimeGreen}\text{BSc}}$ Applied Mathematics and Physics (4.74/5.00) | [mipt.ru](https://mipt.ru/english/) |
+| Oct 2022 - Mar 2025 (exp) | Technical University of Munich | ${\color{LimeGreen}\text{MSc}}$ Computational Science and Engineering (Informatics) | [tum.de](https://www.tum.de/en/) |
 
 
 ## **Work, research and more** 👨‍🔬
@@ -18,6 +18,7 @@ I worked here and there. Currently, I work here: ...
 - [Verification of Solutions to Wave Equations Using Integral Transformations](https://www.overleaf.com/read/cscghhcmgjwn#7e5ff8): Bachelor of Science graduation thesis (not published), [code](https://github.com/rayannott/wave_pde_analytical "WARNING: bad code");
 - [Normal Vibrations of Sagging Conductors of Overhead Power Lines](https://ijccse.iasv.ru/index.php/ijccse/article/view/558): mechanics journal paper in colaboration with the Russian Academy of Sciences (RAS);
 - more to come!
+
 ### Events
 I participated in the following cool events: ...
 <!-- IAC2022  HackaTUM22 R&Stour HackaTUM23-->
@@ -26,11 +27,11 @@ I participated in the following cool events: ...
 ## **Skills** 🥇
 ### Technical
 Colour coding: 
-<span style="color:#c356c4;">expert</span>,
-<span style="color:#56c47b;">proficient</span>, 
-<span style="color:#ffbd61;">advanced</span>, 
-<span style="color:#79bbe0;">competent</span>, 
-<span style="color:#a39fa6;">beginner</span>.
+${\color{Orchid}\text{expert}}$,
+${\color{Green}\text{proficient}}$, 
+${\color{Orange}\text{advanced}}$, 
+${\color{Turquoise}\text{competent}}$, 
+${\color{Gray}\text{beginner}}$.
 
 #### Programming languages
 - Python
@@ -57,7 +58,6 @@ Colour coding:
 - SolidWorks
 - MSOffice (duh...)
 - Figma
-- 
 
 ### Theoretical
 I can math, algorithms, physics, yada yada
