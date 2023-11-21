@@ -40,6 +40,8 @@ I participated in the following cool events: ...
 | Tatar | native |
 
 ### Technical
+_I'm not a big fan of how this section looks. Please, submit your formatting suggestion here: https://github.com/rayannott/rayannott/issues._
+
 Colour coding: 
 🟣 ${\color{Orchid}\text{expert}}$,🟢 ${\color{Green}\text{proficient}}$, 🟠 ${\color{Orange}\text{advanced}}$, 🔵 ${\color{lightblue}\text{competent}}$, ⚪ beginner.
 #### Programming languages
