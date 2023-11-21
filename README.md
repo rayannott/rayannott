@@ -3,17 +3,20 @@ You've reached my personal GitHub page!\
 Let this `README.md` be my CV-demo 😉 (not sure it's supposed to be that though)
 
 ### **Education** 🏫
-|        Period       |      School   |  Notes | Website |
+|        Period       |      School   |  Programm | Website |
 |:-------------------:|:-------------:|:------:|:-----:|
 | Sep 2007 - Aug 2018 |  Liceum 146, Kazan | just a normal high school | [-link-](https://edu.tatar.ru/nsav/licey146) |
 | Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  <span style="color:green">BSc</span> _Applied Mathematics and Physics_ (4.74/5.00) | [mipt.ru](https://mipt.ru/english/) |
-| Oct 2022 - Mar 2025 | Technical University of Munich |  <span style="color:green">MSc</span> _Computational Science and Engineering_ (Informatics) | [tum.de](https://www.tum.de/en/) |
+| Oct 2022 - Mar 2025 (exp) | Technical University of Munich |  <span style="color:green">MSc</span> _Computational Science and Engineering_ (Informatics) | [tum.de](https://www.tum.de/en/) |
 
 ### **Work, research and more** 👨‍🔬
 #### Work
 I worked here and there. Currently, I work here: ...
 #### Research
-I published this and that
+- [Reinforcement Learning for Attitude Control of a Spacecraft With Flexible Appendages](https://www.researchgate.net/publication/363840944_REINFORCEMENT_LEARNING_FOR_ATTITUDE_CONTROL_OF_A_SPACECRAFT_WITH_FLEXIBLE_APPENDAGES): International Astronautical Congress (IAC) 2022 conference paper;
+- [Verification of Solutions to Wave Equations Using Integral Transformations](https://www.overleaf.com/read/cscghhcmgjwn#7e5ff8): Bachelor of Science Thesis (not published);
+- [Normal Vibrations of Sagging Conductors of Overhead Power Lines](https://ijccse.iasv.ru/index.php/ijccse/article/view/558): mechanics journal paper in colaboration with the Russian Academy of Sciences (RAS);
+- more to come!
 #### Events
 I participated in the following cool events: ...
 <!-- IAC2022  HackaTUM22 R&Stour HackaTUM23-->
@@ -25,7 +28,14 @@ I can code in this and that and a bit in those. I can also in A, B and C...
 #### Theoretical
 I can math, algorithms, physics, yada yada
 #### Other
-Human languages, presentations, MSOffice (duh), ...
+presentations, MSOffice (duh), ...
+##### Human Languages
+| Language   |  Level |
+|----------|:-------:|
+| English |  [C1/C2](https://drive.google.com/file/d/1iolYW3rq6XkjpksnMkJvFKeyySMtdwK8/view?usp=sharing "IELTS band 8.0 (view certificate; WARNING: bad photo)") |
+| German | A2/B1 |
+| Russian | native |
+| Tatar | native |
 
 
 ### **Interests** 🙂
@@ -40,17 +50,5 @@ I like and sometimes do these things: ...
 - 🎧 add me on Discord: `@rayannott`
 - 💩 text me on WhatsApp: _just kidding, please don't_
 
-<!--
-**rayannott/rayannott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./pictures/me-shades.jpg"  width="40%">
