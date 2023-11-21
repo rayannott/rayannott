@@ -12,12 +12,18 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 
 ## **Work, research and more** 👨‍🔬
 ### Work
-I worked here and there. Currently, I work here: ...
+| Period | Company | Position |
+| :-: | :-: | :-: |
+|.|.|.|
+<!-- |.|.|.| -->
 ### Research
-- [Reinforcement Learning for Attitude Control of a Spacecraft With Flexible Appendages](https://www.researchgate.net/publication/363840944_REINFORCEMENT_LEARNING_FOR_ATTITUDE_CONTROL_OF_A_SPACECRAFT_WITH_FLEXIBLE_APPENDAGES): International Astronautical Congress (IAC) 2022 conference paper;
-- [Verification of Solutions to Wave Equations Using Integral Transformations](https://www.overleaf.com/read/cscghhcmgjwn#7e5ff8): Bachelor of Science graduation thesis (not published), [code](https://github.com/rayannott/wave_pde_analytical "WARNING: bad code");
-- [Normal Vibrations of Sagging Conductors of Overhead Power Lines](https://ijccse.iasv.ru/index.php/ijccse/article/view/558): mechanics journal paper in colaboration with the Russian Academy of Sciences (RAS);
-- more to come!
+|Date|Title & Link|Notes|
+| :-: | :-: | :-: |
+|Jan 2022|[Reinforcement Learning for Attitude Control of a Spacecraft With Flexible Appendages](https://www.researchgate.net/publication/363840944_REINFORCEMENT_LEARNING_FOR_ATTITUDE_CONTROL_OF_A_SPACECRAFT_WITH_FLEXIBLE_APPENDAGES)|International Astronautical Congress (IAC) conference paper|
+|Jun 2022|[Verification of Solutions to Wave Equations Using Integral Transformations](https://www.overleaf.com/read/cscghhcmgjwn#7e5ff8 "link to the Overleaf project")|Bachelor of Science graduation thesis (not published), [code](https://github.com/rayannott/wave_pde_analytical "WARNING: bad code")|
+|Sep 2022|[Normal Vibrations of Sagging Conductors of Overhead Power Lines](https://doi.org/10.22337/2587-9618-2022-18-3-147-158)|Mechanics journal paper in colaboration with the Russian Academy of Sciences (RAS)|
+<!-- |.|.|.| -->
+(more to come!)
 
 ### Events
 I participated in the following cool events: ...
