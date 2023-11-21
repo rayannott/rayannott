@@ -27,7 +27,7 @@ I participated in the following cool events: ...
 ## **Skills** 🥇
 ### Technical
 Colour coding: 
-${\color{Orchid}\text{expert}}$, ${\color{Green}\text{proficient}}$, ${\color{Orange}\text{advanced}}$, ${\color{Turquoise}\text{competent}}$, ${\color{Grey}\text{beginner}}$
+${\color{Orchid}\text{expert}}$ 🟣, ${\color{Green}\text{proficient}}$ 🟢, ${\color{Orange}\text{advanced}}$ 🟠, ${\color{lightblue}\text{competent}}$ 🔵, beginner ⚪.
 
 #### Programming languages
 - Python
@@ -42,9 +42,9 @@ ${\color{Orchid}\text{expert}}$, ${\color{Green}\text{proficient}}$, ${\color{Or
     - flask
 - C++
 - MATLAB
+- SQL
 - R
 - Julia
-- SQL
 
 #### Other
 - git (GitHub, GitLab)
