@@ -77,33 +77,20 @@ Colour coding:
 
 ### Theoretical Skills
 Here are _some_ courses I took during my studies. 
-#### Mathematics
-- Calculus I/II/III
-- Linear Algebra
-- Probability Theory and Statistics
-- Differential Equations
-- Partial Differential Equations (Mathematical Physics)
-- Numerical Analysis
-- Complex Analysis
-- Mathematical Modelling
-#### Physics
-- Mechanics
-- Thermodynamics
-- Electricity and Magnetism
-- Optics
-- Nuclear Physics
-- Fluid Mechanics
-- Practical Labs (in all of the above)
-- Theoretical Mechanics
-- Solid Body Mechanics
-- Quantum Mechanics
-- Statistical Physics
-- Control Theory
-#### Informatics and Computer Science
-- Machine Learning
-- Deep Learning
-- Algorithms and Data Structures
-- Parallel Programming
+| Mathematics | Physics | Informatics and Computer Science |
+|-------------|---------|--------------------------------|
+| Calculus I/II/III | Mechanics | Machine Learning |
+| Linear Algebra | Thermodynamics | Deep Learning |
+| Probability Theory and Statistics | Electricity and Magnetism | Algorithms and Data Structures |
+| Differential Equations | Optics | Parallel Programming |
+| Partial Differential Equations (Mathematical Physics) | Nuclear Physics | |
+| Numerical Analysis | Fluid Mechanics | |
+| Complex Analysis | Practical Labs (in all of the above) | |
+| Mathematical Modelling | Theoretical Mechanics | |
+| | Solid Body Mechanics | |
+| | Quantum Mechanics | |
+| | Statistical Physics | |
+| | Control Theory | |
 
 
 ## **Interests** 🎨
