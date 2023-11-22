@@ -65,6 +65,7 @@ Colour coding:
 - ⚪ R
 - ⚪ Julia
 #### Other
+- 🟣 creating `markdown` lists
 - 🟠 git (GitHub, GitLab)
 - 🟠 LaTeX
 - 🟠 SolidWorks
@@ -110,11 +111,15 @@ I like and sometimes do these things: ...
 - piano (check out [this clip](https://youtube.com/clip/UgkxlRIhGJqhNfKIHo6oJgLqtGlehYs2RzR_?si=ztX3tDY_P7VGRzS1 "Chopin - Nocturne Op. 9 No. 2")) and guitar
 - digital photography (search `#ph` hashtag in my personal [Telegram channel](https://t.me/meinluftschloss))
 - teaching
-- coding (algorithms, puzzle games, ...); especially: writing unreadable one-liners in Python
-    ```python
-    print((fib := lambda n: n if n < 2 else fib(n-1) + fib(n-2))(10))
-    ```
 - swimming, cycling and hiking
+- coding
+    - algorithms,
+    - puzzle games
+    - coming up with coding problems 
+    - writing unreadable one-liners in Python
+ `print((fib := lambda n: n if n < 2 else fib(n-1) + fib(n-2))(10))`
+    - [leetcode](https://leetcode.com/rayannott/)
+    - add me on [ProjectEuler](https://projecteuler.net/friends): `1806518_hxYZDigZ3jQjJZgworwIBfFyol0Qwaj8`
 
 
 ## **How to reach me** 📫
