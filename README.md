@@ -46,7 +46,8 @@ I participated in the following cool events: ...
 | Tatar | native |
 
 ### Technical Skills
-_I'm not a big fan of how this section looks like. Please, submit your formatting suggestion here: https://github.com/rayannott/rayannott/issues/1._
+> [!NOTE]
+> _I'm not a big fan of how this section looks like. Please, submit your formatting suggestion here: https://github.com/rayannott/rayannott/issues/1._
 
 Colour coding: 
 🟣 ${\color{Orchid}\text{expert}}$,🟢 ${\color{Green}\text{proficient}}$, 🟠 ${\color{Orange}\text{advanced}}$, 🔵 ${\color{lightblue}\text{competent}}$, ⚪ beginner.
