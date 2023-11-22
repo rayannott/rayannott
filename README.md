@@ -65,7 +65,7 @@ Colour coding:
 - ⚪ R
 - ⚪ Julia
 #### Other
-- 🟣 creating `markdown` lists
+- 🟣 creating lists in markdown
 - 🟠 git (GitHub, GitLab)
 - 🟠 LaTeX
 - 🟠 SolidWorks
@@ -83,11 +83,11 @@ Here are _some_ courses I took during my studies.
 | Linear Algebra | Thermodynamics | Deep Learning |
 | Probability Theory and Statistics | Electricity and Magnetism | Algorithms and Data Structures |
 | Differential Equations | Optics | Parallel Programming |
-| Partial Differential Equations (Mathematical Physics) | Nuclear Physics | |
-| Numerical Analysis | Fluid Mechanics | |
-| Complex Analysis | Practical Labs (in all of the above) | |
+| Partial Differential Equations | Nuclear Physics | Information Retreival in High-Dimentional Data |
+| Numerical Analysis | Fluid Mechanics |  |
+| Complex Analysis | Solid Body Mechanics | |
 | Mathematical Modelling | Theoretical Mechanics | |
-| | Solid Body Mechanics | |
+| Game Theory | Practical Labs (in all of the above) | |
 | | Quantum Mechanics | |
 | | Statistical Physics | |
 | | Control Theory | |
