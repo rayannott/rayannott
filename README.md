@@ -2,6 +2,7 @@
 You've reached my personal GitHub page!\
 Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 
+
 ## **Education** 🎓
 |        Period       |      School   |  Programm | Website |
 |:-------------------:|:-------------:|:------:|:-----:|
@@ -10,11 +11,16 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 | Oct 2022 - Mar 2025 (expected) | Technical University of Munich | ${\color{LimeGreen}\text{MSc}}$ Computational Science and Engineering (Informatics) | [tum.de](https://www.tum.de/en/) |
 <!-- |.|.|.| -->
 
+
 ## **Work, research and more** 🧑‍💻
 ### Work Experience
-| Period | Company | Position |
+| Period | Position | Company |
 | :-: | :-: | :-: |
-|.|.|.|
+|Oct 2019 - Oct 2022|Private Mathematics Tutor|_self-employed_|
+|Jun 2022 - Oct 2022|Student Intern|Schlumberger Moscow Research|
+|Mar 2021 - Oct 2023|Research Assistant|Russian Academy of Sciences|
+|Feb 2023 - Oct 2023|HIWI Student|TUM Robotics Lab|
+|.|_CEO/COO/CFO_|_your company here!_|
 <!-- |.|.|.| -->
 ### Research
 |Date|Title & Link|Notes|
@@ -40,23 +46,18 @@ I participated in the following cool events: ...
 | Tatar | native |
 
 ### Technical Skills
-_I'm not a big fan of how this section looks. Please, submit your formatting suggestion here: https://github.com/rayannott/rayannott/issues._
+_I'm not a big fan of how this section looks like. Please, submit your formatting suggestion here: https://github.com/rayannott/rayannott/issues/1._
 
 Colour coding: 
 🟣 ${\color{Orchid}\text{expert}}$,🟢 ${\color{Green}\text{proficient}}$, 🟠 ${\color{Orange}\text{advanced}}$, 🔵 ${\color{lightblue}\text{competent}}$, ⚪ beginner.
 #### Programming languages
 - 🟢 Python
-    - 🟢 numpy
-    - 🟢 scipy
-    - 🟢 matplotlib
-    - 🟠 pytorch
-    - 🟠 sympy
-    - 🟠 plotly, plotly dash
-    - 🟠 pandas
+    - 🟢 numpy 🟢 scipy 🟢 matplotlib
+    - 🟠 pytorch 🟠 pandas
+    - 🟠 sympy 🟠 plotly, plotly dash
     - 🟠 pygame, pygame_gui
     - 🟠 pytest, unittest
-    - 🔵 tkinter
-    - 🔵 streamlit
+    - 🔵 tkinter 🔵 streamlit
     - ⚪ flask
 - 🟠 C++
 - 🔵 MATLAB
@@ -110,6 +111,9 @@ I like and sometimes do these things: ...
 - digital photography (search `#ph` hashtag in my personal [Telegram channel](https://t.me/meinluftschloss))
 - teaching
 - coding (algorithms, puzzle games, ...); especially: writing unreadable one-liners in Python
+    ```python
+    print((fib := lambda n: n if n < 2 else fib(n-1) + fib(n-2))(10))
+    ```
 - swimming, cycling and hiking
 
 
