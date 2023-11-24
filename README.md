@@ -105,9 +105,13 @@ I like and sometimes do these things: ...
     - puzzle games
     - coming up with coding problems 
     - writing unreadable one-liners in Python
- `print((fib := lambda n: n if n < 2 else fib(n-1) + fib(n-2))(10))`
-    - [leetcode](https://leetcode.com/rayannott/)
-    - add me on [ProjectEuler](https://projecteuler.net/friends): `1806518_hxYZDigZ3jQjJZgworwIBfFyol0Qwaj8`
+    ```python
+    # First 20 Fibonacci numbers:
+    print(*map((fib := lambda n: n if n < 2 else fib(n-1) + fib(n-2)), range(1, 21)))
+    # FizzBuzz for 1..100:
+    print(*((i%3==0) * 'Fizz' + (i%5==0) * 'Buzz' or i for i in range(1,101)), sep='\n')
+    ```
+    - check out my progress on [leetcode](https://leetcode.com/rayannott/) and on [ProjectEuler](https://projecteuler.net/friends) (add me as a friend: `1806518_hxYZDigZ3jQjJZgworwIBfFyol0Qwaj8`)
 
 
 ## **How to reach me** 📫
@@ -119,4 +123,8 @@ I like and sometimes do these things: ...
 - 💩 text me on WhatsApp: _just kidding, please don't_
 
 
-<img src="./pictures/me-shades.jpg"  width="40%">
+## **Gallery** 📷
+<img title="me in 2021 (I still look approximately like this)" src="./pictures/me-shades.jpg"  width="32%">
+<img title="HackaTUM23 me and my team of fellow hackers" src="./pictures/hackaTUM23.jpg"  width="60%">
+<img title="Ferienakademie 2023: course photo" src="./pictures/ferienakademie2023-1.jpg"  width="48%">
+<img title="Ferienakademie 2023: me giving a lecture on thermodynamic parametrization of the neural networks" src="./pictures/ferienakademie2023-2.jpg"  width="48%">
