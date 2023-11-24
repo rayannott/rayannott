@@ -133,7 +133,9 @@ I like and sometimes do these things: ...
 
 
 ## **Gallery** 📷
+<p float="left">
 <img title="me in 2021 (I still look approximately like this)" src="./pictures/me-shades.jpg"  width="32%">
 <img title="HackaTUM23 me and my team of fellow hackers" src="./pictures/hackaTUM23.jpg"  width="60%">
 <img title="Ferienakademie 2023: course photo" src="./pictures/ferienakademie2023-1.jpg"  width="48%">
 <img title="Ferienakademie 2023: me giving a lecture on thermodynamic parametrization of the neural networks" src="./pictures/ferienakademie2023-2.jpg"  width="48%">
+</p>
