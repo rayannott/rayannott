@@ -17,23 +17,32 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 | Period | Position | Company |
 | :-: | :-: | :-: |
 |Oct 2019 - Oct 2022|Private Mathematics Tutor|_self-employed_|
-|Jun 2022 - Oct 2022|Student Intern|Schlumberger Moscow Research|
-|Mar 2021 - Oct 2023|Research Assistant|Russian Academy of Sciences|
-|Feb 2023 - Oct 2023|HIWI Student|TUM Robotics Lab|
+|Jun 2022 - Oct 2022|Student Intern|[Schlumberger Moscow Research Center](https://www.slb.com/)|
+|Mar 2021 - Oct 2023|Research Assistant|[Russian Academy of Sciences](https://new.ras.ru/en/) & [Institute of Applied Mechanics](https://iam.ras.ru/en/)|
+|Feb 2023 - Oct 2023|HIWI Student|[TUM Robotics Lab](https://www.ce.cit.tum.de/en/air/home/)|
+|Jan 2024 - present|Working Student|[ASMPT Germany](https://smt.asmpt.com/en/)|
 |.|_CEO/COO/CFO_|_your company here!_|
 <!-- |.|.|.| -->
 ### Research
 |Date|Title & Link|Notes|
 | :-: | :-: | :-: |
-|Jan 2022|[Reinforcement Learning for Attitude Control of a Spacecraft With Flexible Appendages](https://www.researchgate.net/publication/363840944_REINFORCEMENT_LEARNING_FOR_ATTITUDE_CONTROL_OF_A_SPACECRAFT_WITH_FLEXIBLE_APPENDAGES)|International Astronautical Congress (IAC) conference paper|
+|Jan 2022|[Reinforcement Learning for Attitude Control of a Spacecraft With Flexible Appendages](https://www.researchgate.net/publication/363840944_REINFORCEMENT_LEARNING_FOR_ATTITUDE_CONTROL_OF_A_SPACECRAFT_WITH_FLEXIBLE_APPENDAGES)|International Astronautical Congress (IAC2022) conference paper|
 |Jun 2022|[Verification of Solutions to Wave Equations Using Integral Transformations](https://www.overleaf.com/read/cscghhcmgjwn#7e5ff8 "link to the Overleaf project")|Bachelor of Science graduation thesis (not published), [code](https://github.com/rayannott/wave_pde_analytical "WARNING: bad code")|
 |Sep 2022|[Normal Vibrations of Sagging Conductors of Overhead Power Lines](https://doi.org/10.22337/2587-9618-2022-18-3-147-158)|Mechanics journal paper in colaboration with the Russian Academy of Sciences (RAS)|
 <!-- |.|.|.| -->
 (more to come!)
 
 ### Events
-I participated in the following cool events: ...
-<!-- IAC2022  HackaTUM22 R&Stour HackaTUM23-->
+1. [International Astronautical Congress 2022](https://iac2022.org/ "IAC2022 website") (IAC2022), Paris, France, Sep 2022. 
+    - My team presented our research on reinforcement learning for attitude control of a spacecraft with flexible appendages (see [above](#research))
+2. [HackaTUM 2022](https://hack.tum.de/ "HackaTUM website"), Munich, Germany, Nov 2022.
+    - My team solved the challenge problem of [_Rohde & Schwarz_](https://www.rohde-schwarz.com/ "Rohde & Schwarz website") about the microwave imaging technology (see code [here](https://github.com/rayannott/microwave-imaging "WARNING: bad code, just a prototype"))
+3. [Ferienakademie 2023](https://www.ferienakademie.de/ "Ferienakademie website"), Sarntal, Italy, Sep 2023. (see the photos [below](#gallery))
+    - I participated in the course _"Stochastic Evolution Equations: From martingales to applications"_ by Prof. Dr. rer. nat. Johannes Zimmer and Prof. Dr. Günther Grün (see course description [here](https://www.math.cit.tum.de/math/forschung/gruppen/analysis-and-mathbio/teaching/fa2023/))
+    - there I gave a lecture on thermodynamic parametrization of the neural networks based on [this paper](https://www.aimsciences.org/article/doi/10.3934/fods.2019019)
+    - there I also went to many hikes and had a lot of quality time with my fellow students and professors (I hope they take me again next year 😋)
+4. [HackaTUM 2023](https://hack.tum.de/ "HackaTUM website"), Munich, Germany, Nov 2023. (see the photos [below](#gallery))
+    - My team solved the challenge problem of [_Optiver_](https://www.optiver.com/ "Optiver website") about the market making with sentiment analysis on the news (sadly, I can't share the code because the organizers asked us not to)
 
 
 ## **Skills** 📚
@@ -85,7 +94,7 @@ Here are _some_ courses I took during my studies.
 | Probability Theory and Statistics | Electricity and Magnetism | Algorithms and Data Structures |
 | Differential Equations | Optics | Parallel Programming |
 | Partial Differential Equations | Nuclear Physics | Information Retreival in High-Dimentional Data |
-| Numerical Analysis | Fluid Mechanics |  |
+| Numerical Analysis | Fluid Mechanics | Data Analysis |
 | Complex Analysis | Solid Body Mechanics | |
 | Mathematical Modelling | Theoretical Mechanics | |
 | Game Theory | Practical Labs (in all of the above) | |
@@ -117,8 +126,8 @@ I like and sometimes do these things: ...
 ## **How to reach me** 📫
 - ✉️ send me an email: airat.valiullin@tum.de
 - 💬 text me on Telegram: [`@rayannott`](https://t.me/rayannott)
-- 📷 DM me on Instagram: [`@rayannott`](https://www.instagram.com/rayannott)
 - 🧑‍💼 add me on LinkedIn: [Airat Valiullin](https://www.linkedin.com/in/airat-valiullin-067718256/)
+- 📷 DM me on Instagram: [`@rayannott`](https://www.instagram.com/rayannott)
 - 🎧 add me on Discord: `@rayannott`
 - 💩 text me on WhatsApp: _just kidding, please don't_
 
