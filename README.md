@@ -139,3 +139,8 @@ I like and sometimes do these things: ...
 <img title="Ferienakademie 2023: course photo" src="./pictures/ferienakademie2023-1.jpg"  width="48%">
 <img title="Ferienakademie 2023: me giving a lecture on thermodynamic parametrization of the neural networks" src="./pictures/ferienakademie2023-2.jpg"  width="48%">
 </p>
+
+
+## **GitHub Summary** 
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayannott)
+<!-- on dynamic badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
