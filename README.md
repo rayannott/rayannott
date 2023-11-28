@@ -142,5 +142,6 @@ I like and sometimes do these things: ...
 
 
 ## **GitHub Summary** 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayannott)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayannott&theme=dark)
+![image](https://github-readme-streak-stats.herokuapp.com/?user=rayannott&theme=dark)
 <!-- on dynamic badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
