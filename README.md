@@ -124,12 +124,19 @@ I like and sometimes do these things: ...
 
 
 ## **How to reach me** 📫
-- ✉️ send me an email: airat.valiullin@tum.de
-- 💬 text me on Telegram: [`@rayannott`](https://t.me/rayannott)
-- 🧑‍💼 add me on LinkedIn: [Airat Valiullin](https://www.linkedin.com/in/airat-valiullin-067718256/)
-- 📷 DM me on Instagram: [`@rayannott`](https://www.instagram.com/rayannott)
-- 🎧 add me on Discord: `@rayannott`
-- 💩 text me on WhatsApp: _just kidding, please don't_
+Send me an email: airat.valiullin@tum.de or
+
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([`@rayannott`](https://t.me/rayannott))
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airat-valiullin-067718256/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayannott)
+[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]("@rayannott")
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://gist.github.com/rayannott/fd3e36c245b51f3e4ded29df8c15da30)
+
+
+## **GitHub Summary** 
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayannott&theme=dark)
+![image](https://github-readme-streak-stats.herokuapp.com/?user=rayannott&theme=dark)
+<!-- on badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 
 ## **Gallery** 📷
@@ -139,9 +146,3 @@ I like and sometimes do these things: ...
 <img title="Ferienakademie 2023: course photo" src="./pictures/ferienakademie2023-1.jpg"  width="48%">
 <img title="Ferienakademie 2023: me giving a lecture on thermodynamic parametrization of the neural networks" src="./pictures/ferienakademie2023-2.jpg"  width="48%">
 </p>
-
-
-## **GitHub Summary** 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayannott&theme=dark)
-![image](https://github-readme-streak-stats.herokuapp.com/?user=rayannott&theme=dark)
-<!-- on dynamic badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
