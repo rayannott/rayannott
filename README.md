@@ -6,7 +6,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 ## **Education** 🎓
 |        Period       |      School   |  Programm | Website |
 |:-------------------:|:-------------:|:------:|:-----:|
-| Sep 2007 - Aug 2018 |  Liceum 146, Kazan | just a normal high school | [-link-](https://edu.tatar.ru/nsav/licey146) |
+| Sep 2007 - Aug 2018 |  Liceum 146, Kazan | just a normal high school, 11 grades | [-link-](https://edu.tatar.ru/nsav/licey146) |
 | Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  ${\color{LimeGreen}\text{BSc}}$ Applied Mathematics and Physics (4.74/5.00) | [mipt.ru](https://mipt.ru/english/) |
 | Oct 2022 - Mar 2025 (expected) | Technical University of Munich | ${\color{LimeGreen}\text{MSc}}$ Computational Science and Engineering (Informatics) | [tum.de](https://www.tum.de/en/) |
 <!-- |.|.|.| -->
