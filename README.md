@@ -134,8 +134,9 @@ Send me an email: airat.valiullin@tum.de or
 
 
 ## **GitHub Summary** 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayannott&theme=dark)
-![image](https://github-readme-streak-stats.herokuapp.com/?user=rayannott&theme=dark)
+![image](https://github-profile-trophy.vercel.app/?username=rayannott&theme=tokyonight)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayannott&theme=tokyonight)
+![image](https://github-readme-streak-stats.herokuapp.com/?user=rayannott&theme=tokyonight)
 <!-- on badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 
