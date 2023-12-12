@@ -113,13 +113,7 @@ I like and sometimes do these things: ...
     - algorithms,
     - puzzle games
     - coming up with coding problems 
-    - writing unreadable one-liners in Python
-    ```python
-    # First 20 Fibonacci numbers:
-    print(*map((fib := lambda n: n if n < 2 else fib(n-1) + fib(n-2)), range(1, 21)))
-    # FizzBuzz for 1..100:
-    print(*((i%3==0) * 'Fizz' + (i%5==0) * 'Buzz' or i for i in range(1,101)), sep='\n')
-    ```
+    - writing unreadable one-liners in Python: [check out here](https://gist.github.com/rayannott/3291a185744d7c71ab14844ff3d9b484) (and feel free to add more)
     - check out my progress on [leetcode](https://leetcode.com/rayannott/) and on [ProjectEuler](https://projecteuler.net/friends) (add me as a friend: `1806518_hxYZDigZ3jQjJZgworwIBfFyol0Qwaj8`)
 
 
