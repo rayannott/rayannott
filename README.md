@@ -61,7 +61,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 Colour coding: 
 🟣 ${\color{Orchid}\text{expert}}$,🟢 ${\color{Green}\text{proficient}}$, 🟠 ${\color{Orange}\text{advanced}}$, 🔵 ${\color{lightblue}\text{competent}}$, ⚪ beginner.
 #### Programming languages
-- 🟢 Python
+- 🟣 Python
     - 🟢 numpy 🟢 scipy 🟢 matplotlib
     - 🟠 pytorch 🟠 pandas
     - 🟠 sympy 🟠 plotly, plotly dash
