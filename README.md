@@ -72,6 +72,7 @@ Colour coding:
 - 🟠 C++
 - 🔵 MATLAB
 - 🔵 SQL
+- ⚪ Rust
 - ⚪ R
 - ⚪ Julia
 #### Other
