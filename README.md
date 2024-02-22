@@ -96,7 +96,7 @@ Here are _some_ courses I took during my studies.
 | Differential Equations | Optics | Parallel Programming |
 | Partial Differential Equations | Nuclear Physics | Information Retreival in High-Dimentional Data |
 | Numerical Analysis | Fluid Mechanics | Data Analysis |
-| Complex Analysis | Solid Body Mechanics | |
+| Complex Analysis | Solid Body Mechanics | Visual Data Analytics |
 | Mathematical Modelling | Theoretical Mechanics | |
 | Game Theory | Practical Labs (in all of the above) | |
 | | Quantum Mechanics | |
