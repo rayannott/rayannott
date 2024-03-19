@@ -90,15 +90,15 @@ Colour coding:
 Here are _some_ courses I took during my studies. 
 | Mathematics | Physics | Informatics and Computer Science |
 |-------------|---------|--------------------------------|
-| Calculus I/II/III | Mechanics | Machine Learning |
-| Linear Algebra | Thermodynamics | Deep Learning |
+| Calculus I/II/III | Mechanics | [Machine Learning](https://www.cs.cit.tum.de/daml/lehre/wintersemester-202021/machine-learning/)|
+| Linear Algebra | Thermodynamics | [Deep Learning](https://niessner.github.io/I2DL/)|
 | Probability Theory and Statistics | Electricity and Magnetism | Algorithms and Data Structures |
-| Differential Equations | Optics | Parallel Programming |
-| Partial Differential Equations | Nuclear Physics | Information Retreival in High-Dimentional Data |
+| Differential Equations | Optics | [Parallel Programming](https://www.ce.cit.tum.de/caps/lehre/ss20/vorlesungen/parallel-programming/) |
+| Partial Differential Equations | Nuclear Physics | [Information Retreival in High-Dimentional Data](https://www.ce.cit.tum.de/en/ldv/lehre/information-retrieval-in-high-dimensional-data/) |
 | Numerical Analysis | Fluid Mechanics | Data Analysis |
 | Complex Analysis | Solid Body Mechanics | Visual Data Analytics |
 | Mathematical Modelling | Theoretical Mechanics | |
-| Game Theory | Practical Labs (in all of the above) | |
+| [Game Theory](https://www.cs.cit.tum.de/en/dss/teaching/summer-semester-2021/algorithmic-game-theory-in2239-ss21/) | Practical Labs (in all of the above) | |
 | | Quantum Mechanics | |
 | | Statistical Physics | |
 | | Control Theory | |
