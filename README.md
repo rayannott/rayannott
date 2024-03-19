@@ -92,12 +92,12 @@ Here are _some_ courses I took during my studies.
 |-------------|---------|--------------------------------|
 | Calculus I/II/III | Mechanics | [Machine Learning](https://www.cs.cit.tum.de/daml/lehre/wintersemester-202021/machine-learning/)|
 | Linear Algebra | Thermodynamics | [Deep Learning](https://niessner.github.io/I2DL/)|
-| Probability Theory and Statistics | Electricity and Magnetism | Algorithms and Data Structures |
+| Probability Theory and Statistics | Electricity and Magnetism | [Algorithms and Data Structures](https://www.cs.cit.tum.de/tcs/lehre/ws22-23/fundamental-algorithms-cse/) |
 | Differential Equations | Optics | [Parallel Programming](https://www.ce.cit.tum.de/caps/lehre/ss20/vorlesungen/parallel-programming/) |
 | Partial Differential Equations | Nuclear Physics | [Information Retreival in High-Dimentional Data](https://www.ce.cit.tum.de/en/ldv/lehre/information-retrieval-in-high-dimensional-data/) |
 | Numerical Analysis | Fluid Mechanics | Data Analysis |
-| Complex Analysis | Solid Body Mechanics | Visual Data Analytics |
-| Mathematical Modelling | Theoretical Mechanics | |
+| Complex Analysis | Solid Body Mechanics | [Visual Data Analytics](https://www.ph.tum.de/academics/org/cc/course/950495973/?language=en) |
+| Mathematical Modelling | Theoretical Mechanics | [Machine Learning for Graphs and Sequential Data](https://www.cs.cit.tum.de/daml/lehre/sommersemester-2023/machine-learning-for-graphs-and-sequential-data/) |
 | [Game Theory](https://www.cs.cit.tum.de/en/dss/teaching/summer-semester-2021/algorithmic-game-theory-in2239-ss21/) | Practical Labs (in all of the above) | |
 | | Quantum Mechanics | |
 | | Statistical Physics | |
