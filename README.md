@@ -38,7 +38,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 2. [HackaTUM 2022](https://hack.tum.de/ "HackaTUM website"), Munich, Germany, Nov 2022.
     - My team solved the challenge problem of [_Rohde & Schwarz_](https://www.rohde-schwarz.com/ "Rohde & Schwarz website") about the microwave imaging technology (see code [here](https://github.com/rayannott/microwave-imaging "WARNING: bad code, just a prototype"))
 3. [Ferienakademie 2023](https://www.ferienakademie.de/ "Ferienakademie website"), Sarntal, Italy, Sep 2023. (see the photos [below](#gallery))
-    - I participated in the course _"Stochastic Evolution Equations: From martingales to applications"_ by Prof. Dr. rer. nat. Johannes Zimmer and Prof. Dr. Günther Grün (see course description [here](https://www.math.cit.tum.de/math/forschung/gruppen/analysis-and-mathbio/teaching/fa2023/))
+    - I participated in the seminar course _"Stochastic Evolution Equations: From martingales to applications"_ by Prof. Dr. rer. nat. Johannes Zimmer and Prof. Dr. Günther Grün (see course description [here](https://www.math.cit.tum.de/math/forschung/gruppen/analysis-and-mathbio/teaching/fa2023/))
     - there I gave a lecture on thermodynamic parametrization of the neural networks based on [this paper](https://www.aimsciences.org/article/doi/10.3934/fods.2019019)
     - there I also went to many hikes and had a lot of quality time with my fellow students and professors (I hope they take me again next year 😋)
 4. [HackaTUM 2023](https://hack.tum.de/ "HackaTUM website"), Munich, Germany, Nov 2023. (see the photos [below](#gallery))
@@ -50,7 +50,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 | Language   |  Level |
 |----------|:-------:|
 | English |  [C1/C2](https://drive.google.com/file/d/1iolYW3rq6XkjpksnMkJvFKeyySMtdwK8/view?usp=sharing "IELTS band 8.0 (view certificate; WARNING: bad photo)") |
-| German | A2/B1 |
+| German | B1 |
 | Russian | native |
 | Tatar | native |
 
@@ -63,10 +63,11 @@ Colour coding:
 #### Programming languages
 - 🟣 Python
     - 🟢 numpy 🟢 scipy 🟢 matplotlib
-    - 🟠 pytorch 🟠 pandas
-    - 🟠 sympy 🟠 plotly, plotly dash
+    - 🟠 pandas 🟠 plotly, plotly dash
+    - 🟠 pytorch
     - 🟠 pygame, pygame_gui
     - 🟠 pytest, unittest
+    - 🟠 sympy
     - 🔵 tkinter 🔵 streamlit
     - ⚪ flask
 - 🟠 C++
@@ -77,16 +78,17 @@ Colour coding:
 - ⚪ Julia
 #### Other
 - 🟣 creating lists in markdown
-- 🟠 git (GitHub, GitLab)
+- 🟣 VSCode
+- 🟠 git (+GitHub, GitLab)
 - 🟠 LaTeX
-- 🟠 SolidWorks
-- 🟠 VSCode
 - 🟠 MSOffice (duh...)
+- 🔵 SolidWorks
 - 🔵 Linux (Ubuntu)
+- 🔵 Azure DevOps Servers (fna TFS)
 - 🔵 Docker
 - 🔵 Figma
 
-### Theoretical Skills
+### University Courses
 Here are _some_ courses I took during my studies. 
 | Mathematics | Physics | Informatics and Computer Science |
 |-------------|---------|--------------------------------|
@@ -98,7 +100,7 @@ Here are _some_ courses I took during my studies.
 | Numerical Analysis | Fluid Mechanics | Data Analysis |
 | Complex Analysis | Solid Body Mechanics | [Visual Data Analytics](https://www.ph.tum.de/academics/org/cc/course/950495973/?language=en) |
 | Mathematical Modelling | Theoretical Mechanics | [Machine Learning for Graphs and Sequential Data](https://www.cs.cit.tum.de/daml/lehre/sommersemester-2023/machine-learning-for-graphs-and-sequential-data/) |
-| [Game Theory](https://www.cs.cit.tum.de/en/dss/teaching/summer-semester-2021/algorithmic-game-theory-in2239-ss21/) | Practical Labs (in all of the above) | |
+| [Game Theory](https://www.cs.cit.tum.de/en/dss/teaching/summer-semester-2021/algorithmic-game-theory-in2239-ss21/) | Practical Labs (in all of the above) | [Deep Learning in Physics (seminar)](https://www.cs.cit.tum.de/cg/teaching/summer-term-24/deep-learning-in-physics/) with [this]() paper |
 | | Quantum Mechanics | |
 | | Statistical Physics | |
 | | Control Theory | |
@@ -108,7 +110,7 @@ Here are _some_ courses I took during my studies.
 I like and sometimes do these things: ...
 - piano (check out [this clip](https://youtube.com/clip/UgkxlRIhGJqhNfKIHo6oJgLqtGlehYs2RzR_?si=ztX3tDY_P7VGRzS1 "Chopin - Nocturne Op. 9 No. 2")) and guitar
 - digital photography (search `#ph` hashtag in my personal [Telegram channel](https://t.me/meinluftschloss))
-- teaching
+- teaching ([coding](https://github.com/rayannott/teaching-coding), for example; there's also math olympiades, but it's all in Russian)
 - swimming, cycling and hiking
 - coding
     - algorithms,
