@@ -39,7 +39,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
     - My team solved the challenge problem of [_Rohde & Schwarz_](https://www.rohde-schwarz.com/ "Rohde & Schwarz website") about the microwave imaging technology (see code [here](https://github.com/rayannott/microwave-imaging "WARNING: bad code, just a prototype"))
 3. [Ferienakademie 2023](https://www.ferienakademie.de/ "Ferienakademie website"), Sarntal, Italy, Sep 2023. (see the photos [below](#gallery))
     - I participated in the seminar course _"Stochastic Evolution Equations: From martingales to applications"_ by Prof. Dr. rer. nat. Johannes Zimmer and Prof. Dr. Günther Grün (see course description [here](https://www.math.cit.tum.de/math/forschung/gruppen/analysis-and-mathbio/teaching/fa2023/))
-    - there I gave a lecture on thermodynamic parametrization of the neural networks based on [this paper](https://www.aimsciences.org/article/doi/10.3934/fods.2019019)
+    - there I gave a lecture on thermodynamic parametrization of the neural networks based on [this paper](https://www.aimsciences.org/article/doi/10.3934/fods.2019019) (my [code experiments](https://github.com/rayannott/ThermodynamicParameterizationOfNNs) for the talk)
     - there I also went to many hikes and had a lot of quality time with my fellow students and professors (I hope they take me again next year 😋)
 4. [HackaTUM 2023](https://hack.tum.de/ "HackaTUM website"), Munich, Germany, Nov 2023. (see the photos [below](#gallery))
     - My team solved the challenge problem of [_Optiver_](https://www.optiver.com/ "Optiver website") about the market making with sentiment analysis on the news (sadly, I can't share the code because the organizers asked us not to)
@@ -63,24 +63,27 @@ Colour coding:
 #### Programming languages
 - 🟣 Python
     - 🟢 numpy 🟢 scipy 🟢 matplotlib
-    - 🟠 pandas 🟠 plotly, plotly dash
+    - 🟢 pandas 🟢 plotly
+    - 🟠 (plotly) dash, dmc
     - 🟠 pytorch
     - 🟠 pygame, pygame_gui
     - 🟠 pytest, unittest
     - 🟠 sympy
+    - 🔵 sqlite3, sqlalchemy
     - 🔵 tkinter 🔵 streamlit
     - ⚪ flask
+    - other: google api, telebot, beautifulsoup
 - 🟠 C++
+- 🟠 SQL
 - 🔵 MATLAB
-- 🔵 SQL
 - ⚪ Rust
 - ⚪ R
 - ⚪ Julia
 #### Other
 - 🟣 creating lists in markdown
 - 🟣 VSCode
-- 🟠 git (+GitHub, GitLab)
-- 🟠 LaTeX
+- 🟠 git (+GitHub[actions, pr, issues, yada-yada], GitLab)
+- 🟠 LaTeX (mostly in Overleaf)
 - 🟠 MSOffice (duh...)
 - 🔵 SolidWorks
 - 🔵 Linux (Ubuntu)
@@ -101,9 +104,10 @@ Here are _some_ courses I took during my studies.
 | Complex Analysis | Solid Body Mechanics | [Visual Data Analytics](https://www.ph.tum.de/academics/org/cc/course/950495973/?language=en) |
 | Mathematical Modelling | Theoretical Mechanics | [Machine Learning for Graphs and Sequential Data](https://www.cs.cit.tum.de/daml/lehre/sommersemester-2023/machine-learning-for-graphs-and-sequential-data/) |
 | [Game Theory](https://www.cs.cit.tum.de/en/dss/teaching/summer-semester-2021/algorithmic-game-theory-in2239-ss21/) | Practical Labs (in all of the above) | [Deep Learning in Physics (seminar)](https://www.cs.cit.tum.de/cg/teaching/summer-term-24/deep-learning-in-physics/) with [this]() paper |
-| | Quantum Mechanics | |
+| [Numerical Programming I/II](https://www5.in.tum.de/lehre/vorlesungen/num_prog_cse/ws07/) | Quantum Mechanics | |
 | | Statistical Physics | |
 | | Control Theory | |
+| | [Image Processing in Physics}(https://academics.nat.tum.de/org/mh/details/mod/PH2181/) | | 
 
 
 ## **Interests** 🎨
