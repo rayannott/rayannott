@@ -103,7 +103,7 @@ Here are _some_ courses I took during my studies.
 | Numerical Analysis | Fluid Mechanics | Data Analysis |
 | Complex Analysis | Solid Body Mechanics | [Visual Data Analytics](https://www.ph.tum.de/academics/org/cc/course/950495973/?language=en) |
 | Mathematical Modelling | Theoretical Mechanics | [Machine Learning for Graphs and Sequential Data](https://www.cs.cit.tum.de/daml/lehre/sommersemester-2023/machine-learning-for-graphs-and-sequential-data/) |
-| [Game Theory](https://www.cs.cit.tum.de/en/dss/teaching/summer-semester-2021/algorithmic-game-theory-in2239-ss21/) | Practical Labs (in all of the above) | [Deep Learning in Physics (seminar)](https://www.cs.cit.tum.de/cg/teaching/summer-term-24/deep-learning-in-physics/) with [this]() paper |
+| [Game Theory](https://www.cs.cit.tum.de/en/dss/teaching/summer-semester-2021/algorithmic-game-theory-in2239-ss21/) | Practical Labs (in all of the above) | [Deep Learning in Physics (seminar)](https://www.cs.cit.tum.de/cg/teaching/summer-term-24/deep-learning-in-physics/) with [this]() paper (see picture below)|
 | [Numerical Programming I/II](https://www5.in.tum.de/lehre/vorlesungen/num_prog_cse/ws07/) | Quantum Mechanics | |
 | | Statistical Physics | |
 | | Control Theory | |
@@ -116,6 +116,7 @@ I like and sometimes do these things: ...
 - digital photography (search `#ph` hashtag in my personal [Telegram channel](https://t.me/meinluftschloss))
 - teaching ([coding](https://github.com/rayannott/teaching-coding), for example; there's also math olympiades, but it's all in Russian)
 - swimming, cycling and hiking
+- learning
 - coding
     - algorithms,
     - puzzle games
@@ -147,4 +148,5 @@ Send me an email: airat.valiullin@tum.de or
 <img title="HackaTUM23 me and my team of fellow hackers" src="./pictures/hackaTUM23.jpg"  width="60%">
 <img title="Ferienakademie 2023: course photo" src="./pictures/ferienakademie2023-1.jpg"  width="48%">
 <img title="Ferienakademie 2023: me giving a lecture on thermodynamic parametrization of the neural networks" src="./pictures/ferienakademie2023-2.jpg"  width="48%">
+<img title="Deep Learning for Physics talk" src="./pictures/DL4P-talk.jpg"  width="48%">
 </p>
