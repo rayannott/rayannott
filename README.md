@@ -82,7 +82,7 @@ Colour coding:
 #### Other
 - 🟣 creating lists in markdown
 - 🟣 VSCode
-- 🟠 git (+GitHub[actions, pr, issues, yada-yada], GitLab)
+- 🟢 git (+GitHub[actions, pr, issues, yada-yada], GitLab)
 - 🟠 LaTeX (mostly in Overleaf)
 - 🟠 MSOffice (duh...)
 - 🔵 SolidWorks
