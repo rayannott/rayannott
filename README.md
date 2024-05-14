@@ -103,7 +103,7 @@ Here are _some_ courses I took during my studies.
 | Numerical Analysis | Fluid Mechanics | Data Analysis |
 | Complex Analysis | Solid Body Mechanics | [Visual Data Analytics](https://www.ph.tum.de/academics/org/cc/course/950495973/?language=en) |
 | Mathematical Modelling | Theoretical Mechanics | [Machine Learning for Graphs and Sequential Data](https://www.cs.cit.tum.de/daml/lehre/sommersemester-2023/machine-learning-for-graphs-and-sequential-data/) |
-| [Game Theory](https://www.cs.cit.tum.de/en/dss/teaching/summer-semester-2021/algorithmic-game-theory-in2239-ss21/) | Practical Labs (in all of the above) | [Deep Learning in Physics (seminar)](https://www.cs.cit.tum.de/cg/teaching/summer-term-24/deep-learning-in-physics/) with [this]() paper (see picture below and timelapse [here](https://t.me/meinluftschloss/844))|
+| [Game Theory](https://www.cs.cit.tum.de/en/dss/teaching/summer-semester-2021/algorithmic-game-theory-in2239-ss21/) | Practical Labs (in all of the above) | [Deep Learning in Physics (seminar)](https://www.cs.cit.tum.de/cg/teaching/summer-term-24/deep-learning-in-physics/) with [this](https://arxiv.org/abs/1910.03193) paper (see picture below and timelapse [here](https://t.me/meinluftschloss/844))|
 | [Numerical Programming I/II](https://www5.in.tum.de/lehre/vorlesungen/num_prog_cse/ws07/) | Quantum Mechanics | [Computational Neuroscience](https://www.ce.cit.tum.de/en/aip/teaching/computational-neuroscience-a-lecture-series/) |
 | | Statistical Physics | |
 | | Control Theory | |
