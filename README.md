@@ -14,14 +14,13 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 
 ## **Work, research and more** 🧑‍💻
 ### Work Experience
-| Period | Position | Company |
-| :-: | :-: | :-: |
-|Oct 2019 - Oct 2022|Private Mathematics Tutor|_self-employed_|
-|Jun 2022 - Oct 2022|Student Intern|[Schlumberger Moscow Research Center](https://www.slb.com/)|
-|Mar 2021 - Oct 2023|Research Assistant|[Russian Academy of Sciences](https://new.ras.ru/en/) & [Institute of Applied Mechanics](https://iam.ras.ru/en/)|
-|Feb 2023 - Oct 2023|HIWI Student|[TUM Robotics Lab](https://www.ce.cit.tum.de/en/air/home/)|
-|Jan 2024 - present|Working Student|[ASMPT Germany](https://smt.asmpt.com/en/)|
-|.|_CEO/COO/CFO_|_your company here!_|
+| Period | Position | Company | Roles and Tasks|
+| :-: | :-: | :-: | :-: |
+|Oct 2019 - Oct 2022|Private Mathematics Tutor|_self-employed_| |
+|Jun 2022 - Oct 2022|Student Intern|[Schlumberger Moscow Research Center](https://www.slb.com/)| | 
+|Mar 2021 - Oct 2023|Research Assistant|[Russian Academy of Sciences](https://new.ras.ru/en/) & [Institute of Applied Mechanics](https://iam.ras.ru/en/)| |
+|Feb 2023 - Oct 2023|HIWI Student|[TUM Robotics Lab](https://www.ce.cit.tum.de/en/air/home/)| |
+|Jan 2024 - present|Working Student|[ASMPT Germany](https://smt.asmpt.com/en/)| |
 <!-- |.|.|.| -->
 ### Research
 |Date|Title & Link|Notes|
