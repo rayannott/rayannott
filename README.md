@@ -14,13 +14,13 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 
 ## **Work, research and more** 🧑‍💻
 ### Work Experience
-| Period | Position | Company | Roles and Tasks|
+| Period | Position | Company | Description |
 | :-: | :-: | :-: | :-: |
-|Oct 2019 - Oct 2022|Private Mathematics Tutor|_self-employed_| |
-|Jun 2022 - Oct 2022|Student Intern|[Schlumberger Moscow Research Center](https://www.slb.com/)| | 
-|Mar 2021 - Oct 2023|Research Assistant|[Russian Academy of Sciences](https://new.ras.ru/en/) & [Institute of Applied Mechanics](https://iam.ras.ru/en/)| |
-|Feb 2023 - Oct 2023|HIWI Student|[TUM Robotics Lab](https://www.ce.cit.tum.de/en/air/home/)| |
-|Jan 2024 - present|Working Student|[ASMPT Germany](https://smt.asmpt.com/en/)| |
+|Oct 2019 - Oct 2022|Private Mathematics Tutor|_self-employed_| Tutored up to 10 students per week in private sessions using own detailed lesson plans. Taught high school and olympiade level mathematics. |
+|Mar 2021 - Oct 2023|Research Assistant|[Russian Academy of Sciences](https://new.ras.ru/en/) & [Institute of Applied Mechanics](https://iam.ras.ru/en/)| Coauthored research papers on the nonlinear vibrations of overhead power lines. Conducted numerical experiments and validated the results. |
+|Jun 2022 - Oct 2022|Student Intern|[Schlumberger Moscow Research Center](https://www.slb.com/)| Sketched numerical algorithms for solving the inverse acoustics problem. | 
+|Feb 2023 - Oct 2023|HIWI Student|[TUM Robotics Lab](https://www.ce.cit.tum.de/en/air/home/)| Worked on a motion planning framework (MoveIt) to ensure save human-robot interaction. Assisted with motion capturing live data. |
+|Jan 2024 - present|Working Student|[ASMPT Germany](https://smt.asmpt.com/en/)| _Broadly_, data analysis and visualization. Optimization for total energy minimization (mathematics of nonlinear systems, differential equations, calculus of variations). |
 <!-- |.|.|.| -->
 ### Research
 |Date|Title & Link|Notes|
@@ -90,8 +90,9 @@ Colour coding:
 - 🔵 Docker
 - 🔵 Figma
 
+## Courses
 ### University Courses
-Here are _some_ courses I took during my studies. 
+Here are _some_ courses I took during my bachelor's and master's studies: 
 | Mathematics | Physics | Informatics and Computer Science |
 |-------------|---------|--------------------------------|
 | Calculus I/II/III | Mechanics | [Machine Learning](https://www.cs.cit.tum.de/daml/lehre/wintersemester-202021/machine-learning/)|
@@ -106,7 +107,12 @@ Here are _some_ courses I took during my studies.
 | [Numerical Programming I/II](https://www5.in.tum.de/lehre/vorlesungen/num_prog_cse/ws07/) | Quantum Mechanics | [Computational Neuroscience](https://www.ce.cit.tum.de/en/aip/teaching/computational-neuroscience-a-lecture-series/) |
 | | Statistical Physics | |
 | | Control Theory | |
-| | [Image Processing in Physics}(https://academics.nat.tum.de/org/mh/details/mod/PH2181/) | | 
+| | [Image Processing in Physics](https://academics.nat.tum.de/org/mh/details/mod/PH2181/) | | 
+
+### Other Courses
+Fortunately, there is a ton of freely available courses on the internet: YouTube, Coursera, edX have quite a lot of content; some universities also have open courses on their websites.
+Here are some of the courses I took:
+- [DeepMind x UCL | Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb) by Hado Van Hasselt
 
 
 ## **Interests** 🎨
@@ -117,7 +123,7 @@ I like and sometimes do these things: ...
 - swimming, cycling and hiking
 - learning
 - coding
-    - algorithms,
+    - algorithms
     - puzzle games
     - coming up with coding problems 
     - writing unreadable one-liners in Python: [check out here](https://gist.github.com/rayannott/3291a185744d7c71ab14844ff3d9b484) (and feel free to add more)
