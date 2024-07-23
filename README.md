@@ -20,7 +20,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 |Mar 2021 - Oct 2023|Research Assistant|[Russian Academy of Sciences](https://new.ras.ru/en/) & [Institute of Applied Mechanics](https://iam.ras.ru/en/)| Coauthored research papers on the nonlinear vibrations of overhead power lines. Conducted numerical experiments and validated the results. |
 |Jun 2022 - Oct 2022|Student Intern|[Schlumberger Moscow Research Center](https://www.slb.com/)| Sketched numerical algorithms for solving the inverse acoustics problem. | 
 |Feb 2023 - Oct 2023|HIWI Student|[TUM Robotics Lab](https://www.ce.cit.tum.de/en/air/home/)| Worked on a motion planning framework (MoveIt) to ensure save human-robot interaction. Assisted with motion capturing live data. |
-|Jan 2024 - present|Working Student|[ASMPT Germany](https://smt.asmpt.com/en/)| _Broadly_, data analysis and visualization. Optimization for total energy minimization (mathematics of nonlinear systems, differential equations, calculus of variations). |
+|Jan 2024 - present|Working Student|[ASMPT Germany](https://smt.asmpt.com/en/)| (_broadly_) Data analysis and visualization; mathematics of optimization for total energy minimization (mathematics of nonlinear systems, differential equations, calculus of variations). |
 <!-- |.|.|.| -->
 ### Research
 |Date|Title & Link|Notes|
