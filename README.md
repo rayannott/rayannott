@@ -39,7 +39,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 3. [Ferienakademie 2023](https://www.ferienakademie.de/ "Ferienakademie website"), Sarntal, Italy, Sep 2023. (see the photos [below](#gallery))
     - I participated in the seminar course _"Stochastic Evolution Equations: From martingales to applications"_ by Prof. Dr. rer. nat. Johannes Zimmer and Prof. Dr. Günther Grün (see course description [here](https://www.math.cit.tum.de/math/forschung/gruppen/analysis-and-mathbio/teaching/fa2023/))
     - there I gave a lecture on thermodynamic parametrization of the neural networks based on [this paper](https://www.aimsciences.org/article/doi/10.3934/fods.2019019) (my [code experiments](https://github.com/rayannott/ThermodynamicParameterizationOfNNs) for the talk)
-    - there I also went to many hikes and had a lot of quality time with my fellow students and professors (I hope they take me again next year 😋)
+    - there I also went to many hikes and had a lot of quality time with my fellow students and professors <!-- (I hope they take me again next year 😋); upd: they didn't :( -->
 4. [HackaTUM 2023](https://hack.tum.de/ "HackaTUM website"), Munich, Germany, Nov 2023. (see the photos [below](#gallery))
     - My team solved the challenge problem of [_Optiver_](https://www.optiver.com/ "Optiver website") about the market making with sentiment analysis on the news (sadly, I can't share the code because the organizers asked us not to)
 
