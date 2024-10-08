@@ -29,7 +29,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 |Jun 2022|[Verification of Solutions to Wave Equations Using Integral Transformations](https://www.overleaf.com/read/cscghhcmgjwn#7e5ff8 "link to the Overleaf project")|Bachelor of Science graduation thesis (not published), [code](https://github.com/rayannott/wave_pde_analytical "WARNING: bad code")|
 |Sep 2022|[Normal Vibrations of Sagging Conductors of Overhead Power Lines](https://doi.org/10.22337/2587-9618-2022-18-3-147-158)|Mechanics journal paper in colaboration with the Russian Academy of Sciences (RAS)|
 <!-- |.|.|.| -->
-(more to come!)
+
 
 ### Events
 1. [International Astronautical Congress 2022](https://iac2022.org/ "IAC2022 website") (IAC2022), Paris, France, Sep 2022. 
@@ -42,6 +42,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
     - there I also went to many hikes and had a lot of quality time with my fellow students and professors <!-- (I hope they take me again next year 😋); upd: they didn't :( -->
 4. [HackaTUM 2023](https://hack.tum.de/ "HackaTUM website"), Munich, Germany, Nov 2023. (see the photos [below](#gallery))
     - My team solved the challenge problem of [_Optiver_](https://www.optiver.com/ "Optiver website") about the market making with sentiment analysis on the news (sadly, I can't share the code because the organizers asked us not to)
+<!-- 5. [PyCon Sweden 2024](https://www.pycon.se/ "pycon in Stockholm") -->
 
 
 ## **Skills** 📚
@@ -117,7 +118,6 @@ Here are some of the courses I took:
 
 
 ## **Interests** 🎨
-I like and sometimes do these things: ...
 - piano (check out [this clip](https://youtube.com/clip/UgkxlRIhGJqhNfKIHo6oJgLqtGlehYs2RzR_?si=ztX3tDY_P7VGRzS1 "Chopin - Nocturne Op. 9 No. 2")) and guitar
 - digital photography (search `#ph` hashtag in my personal [Telegram channel](https://t.me/meinluftschloss))
 - teaching ([coding](https://github.com/rayannott/teaching-coding), for example; there's also math olympiades, but it's all in Russian)
@@ -141,11 +141,28 @@ Send me an email: airat.valiullin@tum.de or
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://gist.github.com/rayannott/fd3e36c245b51f3e4ded29df8c15da30)
 
 
-## **GitHub Summary** 
+
+## **Projects I Endorse**
+and actually use (in no particular order):
+- [python](https://www.python.org/) - programming language made for humans
+- [project euler](https://projecteuler.net/) - a collection of math+coding problems
+- [daylio](https://daylio.net/) - a digital diary (with an "export as table" feature that empowered [this](https://github.com/rayannott/daylio-analysis))
+- [ticktick](https://www.ticktick.com/home) - a digital planner and tasks tracker
+- [telegram](https://telegram.org) - a powerful messaging app
+- [desmos](https://www.desmos.com/) - a collection of free math tools
+- [7zip](https://www.7-zip.org/) - please don't use winrar
+- [obs](https://obsproject.com/) - an open source software for video recording and live streaming
+- [rawtherapee](https://www.rawtherapee.com/) - an open source raw image processing software
+- [regexlearn](https://regexlearn.com/) - an interactive platform for learning regular expressions
+<!-- - [advent of code](https://adventofcode.com/2024/about) - a yearly programming competition -->
+
+
+## **My GitHub Summary** 
 ![image](https://github-profile-trophy.vercel.app/?username=rayannott&theme=tokyonight)
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayannott&theme=tokyonight)
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=rayannott&theme=tokyonight)
-<!-- on badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+
+more on badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 
 ## **Gallery** 📷
