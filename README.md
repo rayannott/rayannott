@@ -9,7 +9,6 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 | Sep 2007 - Aug 2018 |  Liceum 146, Kazan | just a normal high school, 11 grades | [-link-](https://edu.tatar.ru/nsav/licey146) |
 | Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  ${\color{LimeGreen}\text{BSc}}$ Applied Mathematics and Physics (4.74/5.00) | [mipt.ru](https://mipt.ru/english/) |
 | Oct 2022 - May 2025 (expected) | Technical University of Munich | ${\color{LimeGreen}\text{MSc}}$ Computational Science and Engineering (Informatics) | [tum.de](https://www.tum.de/en/) |
-<!-- |.|.|.| -->
 
 
 ## **Work, research and more** 🧑‍💻
@@ -17,7 +16,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 | Period | Position | Company | Description |
 | :-: | :-: | :-: | :-: |
 |Oct 2019 - Oct 2022|Private Mathematics Tutor|_self-employed_| Tutored up to 10 students per week in private sessions using own detailed lesson plans. Taught high school and olympiade level mathematics. |
-|Mar 2021 - Oct 2023|Research Assistant|[Russian Academy of Sciences](https://new.ras.ru/en/) & [Institute of Applied Mechanics](https://iam.ras.ru/en/)| Coauthored research papers on the nonlinear vibrations of overhead power lines. Conducted numerical experiments and validated the results. |
+|Mar 2021 - Oct 2023|Research Assistant|[Russian Academy of Sciences](https://new.ras.ru/en/) & [Institute of Applied Mechanics](https://iam.ras.ru)| Coauthored research papers on the nonlinear vibrations of overhead power lines. Conducted numerical experiments and validated the results. |
 |Jun 2022 - Oct 2022|Student Intern|[Schlumberger Moscow Research Center](https://www.slb.com/)| Sketched numerical algorithms for solving the inverse acoustics problem. | 
 |Feb 2023 - Oct 2023|HIWI Student|[TUM Robotics Lab](https://www.ce.cit.tum.de/en/air/home/)| Worked on a motion planning framework (MoveIt) to ensure save human-robot interaction. Assisted with motion capturing live data. |
 |Jan 2024 - present|Working Student|[ASMPT Germany](https://smt.asmpt.com/en/)| (_broadly_) Data analysis and visualization; mathematics of optimization for total energy minimization (nonlinear systems, differential equations, calculus of variations). |
@@ -66,10 +65,10 @@ Colour coding:
     - 🟢 numpy 🟢 scipy 🟢 matplotlib
     - 🟢 pandas
     - 🟢 pygame, pygame_gui
+    - 🟢 sympy
     - 🟠 (plotly) dash, dmc
     - 🟠 pytorch
     - 🟠 pytest, unittest
-    - 🟠 sympy
     - 🔵 sqlite3, sqlalchemy
     - 🔵 tkinter 🔵 streamlit
     - ⚪ flask
@@ -88,9 +87,9 @@ Colour coding:
 - 🟠 MSOffice (duh...)
 - 🔵 SolidWorks
 - 🔵 Linux (Ubuntu)
-- 🔵 Azure DevOps Servers (fna TFS)
 - 🔵 Docker
 - 🔵 Figma
+- ⚪ Azure DevOps Servers (fna TFS)
 
 ## Courses
 ### University Courses
@@ -144,7 +143,7 @@ Send me an email: airat.valiullin@tum.de or
 
 ## **Projects I Endorse**
 and actually use (in no particular order):
-- [python](https://www.python.org/) - programming language made for humans
+- [python](https://www.python.org/) - a programming language made for humans
 - [project euler](https://projecteuler.net/) - a collection of math+coding problems
 - [daylio](https://daylio.net/) - a digital diary (with an "export as table" feature that empowered [this](https://github.com/rayannott/daylio-analysis))
 - [ticktick](https://www.ticktick.com/home) - a digital planner and tasks tracker
