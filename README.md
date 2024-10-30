@@ -7,8 +7,8 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 |        Period       |      School   |  Programm | Website |
 |:-------------------:|:-------------:|:------:|:-----:|
 | Sep 2007 - Aug 2018 |  Liceum 146, Kazan | just a normal high school, 11 grades | [-link-](https://edu.tatar.ru/nsav/licey146) |
-| Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  ${\color{LimeGreen}\text{BSc}}$ Applied Mathematics and Physics (4.74/5.00) | [mipt.ru](https://mipt.ru/english/) |
-| Oct 2022 - May 2025 (expected) | Technical University of Munich | ${\color{LimeGreen}\text{MSc}}$ Computational Science and Engineering (Informatics) | [tum.de](https://www.tum.de/en/) |
+| Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  ${\color{LimeGreen}\text{BSc}}$ Applied Mathematics and Physics (4.74/5.00) | [mipt.ru](https://mipt.ru/english/) [wiki](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) |
+| Oct 2022 - May 2025 (expected) | Technical University of Munich | ${\color{LimeGreen}\text{MSc}}$ Computational Science and Engineering (Informatics) | [tum.de](https://www.tum.de/en/) [wiki](https://en.wikipedia.org/wiki/Technical_University_of_Munich) |
 
 
 ## **Work, research and more** 🧑‍💻
@@ -156,6 +156,7 @@ and actually use (in no particular order):
 - [obs](https://obsproject.com/) - an open source software for video recording and live streaming
 - [rawtherapee](https://www.rawtherapee.com/) - an open source raw image processing software
 - [regexlearn](https://regexlearn.com/) - an interactive platform for learning regular expressions
+- [factorio](https://factorio.com/) - the best factory-building video game about logistics, resource management and optimization
 <!-- - [advent of code](https://adventofcode.com/2024/about) - a yearly programming competition -->
 
 
