@@ -41,8 +41,9 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
     - I also went to many hikes and had a lot of quality time with my fellow students and professors <!-- (I hope they take me again next year 😋); upd: they didn't :( -->
 4. [HackaTUM 2023](https://hack.tum.de/past-events/events-2023/ "HackaTUM 2023 website"), Munich, Germany, Nov 2023. (see the photos [below](#gallery); I'm on the main page photo there)
     - My team solved the challenge problem of [_Optiver_](https://www.optiver.com/ "Optiver website") about the market making with sentiment analysis on the news (sadly, I can't share the code because the organizers asked us not to)
-<!-- 5. [PyCon Sweden 2024](https://www.pycon.se/ "pycon in Stockholm")
-    - I attended talks and lectures: ... -->
+5. [PyCon Sweden 2024](https://www.pycon.se/ "pycon in Stockholm")
+    - I attended the following talks: [Beyond the "Hello, World!"](https://pretalx.com/pyconse-2024/talk/CCPCRS/), [Let's goto work](https://pretalx.com/pyconse-2024/talk/EWW8ZJ/), [Documenting Python Code](https://pretalx.com/pyconse-2024/talk/X7DH3L/), [Get old, go slow, write code!](https://pretalx.com/pyconse-2024/talk/NVZQSS/), [Tech as a Gateway: Unlocking Opportunities for Women and Immigrants in the Digital Age](https://pretalx.com/pyconse-2024/talk/C9KQE3/), [A challenge of converting a project's core to asyncio](https://pretalx.com/pyconse-2024/talk/Q9QSKZ/), [It's About Time](https://pretalx.com/pyconse-2024/talk/QHFSDN/), [Parallel Python: Embracing the Future with Sub-Interpreters and Free Threading](https://pretalx.com/pyconse-2024/talk/Q9QSKZ/)
+    - and workshops: [Write Load Tests in Python and Run Them in the Cloud in 15 Minutes](https://pretalx.com/pyconse-2024/talk/RVU97H/)
 <!-- 6. [HackaTUM 2024]() -->
 <!-- 7. [PyData Global 2024](https://pydata.org/global2024/), _virtual_, Dec 2024
    - I attended talks and workshops on data science and related subjects: ... -->
