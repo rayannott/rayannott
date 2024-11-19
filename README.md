@@ -43,7 +43,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
     - My team solved the challenge problem of [_Optiver_](https://www.optiver.com/ "Optiver website") about the market making with sentiment analysis on the news (sadly, I can't share the code because the organizers asked us not to)
 5. [PyCon Sweden 2024](https://www.pycon.se/ "pycon in Stockholm")
     - I attended the following talks and workshops: [Write Load Tests in Python and Run Them in the Cloud in 15 Minutes](https://pretalx.com/pyconse-2024/talk/RVU97H/), [Beyond the "Hello, World!"](https://pretalx.com/pyconse-2024/talk/CCPCRS/), [Let's goto work](https://pretalx.com/pyconse-2024/talk/EWW8ZJ/), [Documenting Python Code](https://pretalx.com/pyconse-2024/talk/X7DH3L/), [Get old, go slow, write code!](https://pretalx.com/pyconse-2024/talk/NVZQSS/), [Tech as a Gateway: Unlocking Opportunities for Women and Immigrants in the Digital Age](https://pretalx.com/pyconse-2024/talk/C9KQE3/), [A challenge of converting a project's core to asyncio](https://pretalx.com/pyconse-2024/talk/Q9QSKZ/), [It's About Time](https://pretalx.com/pyconse-2024/talk/QHFSDN/), [Parallel Python: Embracing the Future with Sub-Interpreters and Free Threading](https://pretalx.com/pyconse-2024/talk/Q9QSKZ/); [Launching, failing & growing AI business & teams through challeges & AI trends](https://pretalx.com/pyconse-2024/talk/DWKHFC/), [Accidentally popular: Beautiful CLI interfaces with rich-click](https://pretalx.com/pyconse-2024/talk/XP7GWN/), [Advanced parsing of structured data using Python's new match statement](https://pretalx.com/pyconse-2024/talk/JPZ7WK/), [Query your structured data with a LangChain AI agent](https://pretalx.com/pyconse-2024/talk/JTYDDY/), [Building Python based AI Systems with LLMs](https://pretalx.com/pyconse-2024/talk/SYQP9E/), [Boring Releases: How We Ship Every Week Without Drama](https://pretalx.com/pyconse-2024/talk/T8AWNE/), [Controlling lab and production equipment with Python](https://pretalx.com/pyconse-2024/talk/D3GPCM/)
-    - I gave a quick lightning talk: "**Should** We Use AI for Everything?"
+    - I gave a quick lightning talk "**Should** We Use AI for Everything?"
 <!-- 6. [HackaTUM 2024]() -->
 <!-- 7. [PyData Global 2024](https://pydata.org/global2024/), _virtual_, Dec 2024
    - I attended talks and workshops on data science and related subjects: ... -->
@@ -66,17 +66,18 @@ Colour coding:
 #### Programming languages
 - 🟣 Python
     - 🟣 plotly
-    - 🟢 numpy 🟢 scipy 🟢 matplotlib
+    - 🟣 numpy 🟣 scipy 🟣 matplotlib
     - 🟢 pandas
     - 🟢 pygame, pygame_gui
     - 🟢 sympy
+    - 🟢 pytorch
     - 🟠 (plotly) dash, dmc
-    - 🟠 pytorch
     - 🟠 pytest, unittest
     - 🔵 sqlite3, sqlalchemy
+    - 🔵 openai (prompt engineering, pydantic-structured outputs)
     - 🔵 tkinter 🔵 streamlit
     - ⚪ flask
-    - other: google api, telebot, beautifulsoup
+    - other: rich, google api, telebot, beautifulsoup, etc.
 - 🟠 SQL
 - 🟠 C++
 - 🔵 MATLAB
@@ -86,7 +87,7 @@ Colour coding:
 #### Other
 - 🟣 creating lists in markdown
 - 🟣 VSCode
-- 🟢 git (+GitHub[actions, pr, issues, yada-yada], GitLab)
+- 🟢 git (in GitHub[actions, pr, issues, etc.], GitLab, TFS)
 - 🟠 LaTeX (mostly in Overleaf)
 - 🟠 MSOffice (duh...)
 - 🔵 SolidWorks
