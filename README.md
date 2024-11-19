@@ -149,6 +149,7 @@ Send me an email: airat.valiullin@tum.de or
 ## **Projects I Endorse**
 and actually use (in no particular order):
 - [python](https://www.python.org/) - a programming language made for humans
+- [rich](https://github.com/Textualize/rich) - a Python library for rich text and beautiful formatting in the terminal
 - [project euler](https://projecteuler.net/) - a collection of math+coding problems
 - [daylio](https://daylio.net/) - a digital diary (with an "export as table" feature that empowered [this](https://github.com/rayannott/daylio-analysis))
 - [ticktick](https://www.ticktick.com/home) - a digital planner and tasks tracker
