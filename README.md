@@ -41,10 +41,13 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
     - I also went to many hikes and had a lot of quality time with my fellow students and professors <!-- (I hope they take me again next year 😋); upd: they didn't :( -->
 4. [HackaTUM 2023](https://hack.tum.de/past-events/events-2023/ "HackaTUM 2023 website"), Munich, Germany, Nov 2023. (see the photos [below](#gallery); I'm on the main page photo there)
     - My team solved the challenge problem of [_Optiver_](https://www.optiver.com/ "Optiver website") about the market making with sentiment analysis on the news (sadly, I can't share the code because the organizers asked us not to)
-5. [PyCon Sweden 2024](https://www.pycon.se/ "pycon in Stockholm")
+5. [PyCon Sweden 2024](https://www.pycon.se/ "pycon in Stockholm"), Stockholm, Sweden, Nov 2024.
     - I attended the following talks and workshops: [Write Load Tests in Python and Run Them in the Cloud in 15 Minutes](https://pretalx.com/pyconse-2024/talk/RVU97H/), [Beyond the "Hello, World!"](https://pretalx.com/pyconse-2024/talk/CCPCRS/), [Let's goto work](https://pretalx.com/pyconse-2024/talk/EWW8ZJ/), [Documenting Python Code](https://pretalx.com/pyconse-2024/talk/X7DH3L/), [Get old, go slow, write code!](https://pretalx.com/pyconse-2024/talk/NVZQSS/), [Tech as a Gateway: Unlocking Opportunities for Women and Immigrants in the Digital Age](https://pretalx.com/pyconse-2024/talk/C9KQE3/), [A challenge of converting a project's core to asyncio](https://pretalx.com/pyconse-2024/talk/Q9QSKZ/), [It's About Time](https://pretalx.com/pyconse-2024/talk/QHFSDN/), [Parallel Python: Embracing the Future with Sub-Interpreters and Free Threading](https://pretalx.com/pyconse-2024/talk/Q9QSKZ/); [Launching, failing & growing AI business & teams through challeges & AI trends](https://pretalx.com/pyconse-2024/talk/DWKHFC/), [Accidentally popular: Beautiful CLI interfaces with rich-click](https://pretalx.com/pyconse-2024/talk/XP7GWN/), [Advanced parsing of structured data using Python's new match statement](https://pretalx.com/pyconse-2024/talk/JPZ7WK/), [Query your structured data with a LangChain AI agent](https://pretalx.com/pyconse-2024/talk/JTYDDY/), [Building Python based AI Systems with LLMs](https://pretalx.com/pyconse-2024/talk/SYQP9E/), [Boring Releases: How We Ship Every Week Without Drama](https://pretalx.com/pyconse-2024/talk/T8AWNE/), [Controlling lab and production equipment with Python](https://pretalx.com/pyconse-2024/talk/D3GPCM/)
     - I gave a quick lightning talk "**Should** We Use AI for Everything?"
-<!-- 6. [HackaTUM 2024]() -->
+6. [HackaTUM 2024](https://hack.tum.de/), Munich, Germany, Nov 2024.
+My team solved the challenge problem of 
+- [Optiver](https://www.optiver.com/) (again!) about the market making with a twist we were asked not to share :) 
+- [Solana](https://solana.com/): chess on blockchain with smart contracts
 <!-- 7. [PyData Global 2024](https://pydata.org/global2024/), _virtual_, Dec 2024
    - I attended talks and workshops on data science and related subjects: ... -->
 
@@ -177,7 +180,9 @@ more on badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
 <img title="HackaTUM23 me and my team of fellow hackers" src="./pictures/hackaTUM23.jpg"  width="60%">
 <img title="Ferienakademie 2023: course photo" src="./pictures/ferienakademie2023-1.jpg"  width="48%">
 <img title="Ferienakademie 2023: me giving a lecture on thermodynamic parametrization of the neural networks" src="./pictures/ferienakademie2023-2.jpg"  width="48%">
-<img title="Deep Learning for Physics talk" src="./pictures/DL4P-talk.jpg"  width="48%">
+<img title="PyCon Sweden 2024: lightning talk" src="./pictures/pycon_sweden_2024.jpg" width="30%">
+<img title="Deep Learning for Physics talk" src="./pictures/DL4P-talk.jpg"  width="68%">
+<img title="HackaTUM24" src="./pictures/hackaTUM24.jpg"  width="60%">
 </p>
 
 Я осуждаю [агрессию России против Украины](https://ru.wikipedia.org/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%83_(%D1%81_2022)). Мир на Украине 🇺🇦. Свободу России 🇷🇺
