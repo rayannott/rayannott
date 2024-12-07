@@ -46,10 +46,9 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
     - I gave a quick lightning talk "**Should** We Use AI for Everything?"
 6. [HackaTUM 2024](https://hack.tum.de/), Munich, Germany, Nov 2024.
 My team solved the challenge problem of 
-- [Optiver](https://www.optiver.com/) (again!) about the market making with a twist we were asked not to share :) 
-- [Solana](https://solana.com/): chess on blockchain with smart contracts
-<!-- 7. [PyData Global 2024](https://pydata.org/global2024/), _virtual_, Dec 2024
-   - I attended talks and workshops on data science and related subjects: ... -->
+    - [Optiver](https://www.optiver.com/) (again!) about the market making with a twist we were asked not to share :) 
+    - [Solana](https://solana.com/): chess on blockchain with smart contracts
+7. [PyData Global 2024](https://pydata.org/global2024/), _virtual_, Dec 2024
 
 ## **Skills** 📚
 ### Human Languages
