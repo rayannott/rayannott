@@ -49,6 +49,9 @@ My team solved the challenge problem of
     - [Optiver](https://www.optiver.com/) (again!) about the market making with a twist we were asked not to share :) 
     - [Solana](https://solana.com/): chess on blockchain with smart contracts
 7. [PyData Global 2024](https://pydata.org/global2024/), _virtual_, Dec 2024
+8. [START Munich Hackathon](), Munich, Dec 2024
+    - My teammates and I solved the DELL's challenge: we've developed the AI-chatbots for the startup aggregator using svelte and langchain/openai;
+    - Take a look at the backend [here](https://github.com/rayannott/dell-chatbot)
 
 ## **Skills** 📚
 ### Human Languages
