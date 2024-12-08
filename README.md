@@ -49,9 +49,10 @@ My team solved the challenge problem of
     - [Optiver](https://www.optiver.com/) (again!) about the market making with a twist we were asked not to share :) 
     - [Solana](https://solana.com/): chess on blockchain with smart contracts
 7. [PyData Global 2024](https://pydata.org/global2024/), _virtual_, Dec 2024
-8. [START Munich Hackathon](https://www.startmunich.de/), Munich, Dec 2024
-    - My teammates and I solved the DELL's challenge: we've developed the AI-chatbots for the startup aggregator using svelte and langchain/openai;
-    - Take a look at the backend [here](https://github.com/rayannott/dell-chatbot)
+8. 🥇 [START Munich Hackathon](https://www.startmunich.de/), Munich, Germany, Dec 2024
+    - My teammates and I solved the DELL's challenge: we've developed the AI-chatbots for the startup aggregator using svelte and langchain/openai
+    - Take a look at the backend [here](https://github.com/rayannott/dell-chatbot) (when and if we take it public that is)
+    - _AND we actually won it!_ 🎉 (see the devpost page [here](https://devpost.com/software/dell-hackstreet-boys))
 
 ## **Skills** 📚
 ### Human Languages
@@ -78,11 +79,13 @@ Colour coding:
     - 🟢 pytorch
     - 🟠 (plotly) dash, dmc
     - 🟠 pytest, unittest
+    - 🟠 scikit-learn
     - 🔵 sqlite3, sqlalchemy
-    - 🔵 openai (prompt engineering, pydantic-structured outputs)
-    - 🔵 tkinter 🔵 streamlit
+    - 🔵 openai 🔵 langchain  (prompt engineering, pydantic-structured outputs)
+    - 🔵 tkinter 🔵 streamlit 🔵 rich 🔵 telebot
+    - 🔵 fastapi
     - ⚪ flask
-    - other: rich, google api, telebot, beautifulsoup, etc.
+    - other: google api, beautifulsoup, etc. (basically any as long as there's a decent documentation)
 - 🟠 SQL
 - 🟠 C++
 - 🔵 MATLAB
