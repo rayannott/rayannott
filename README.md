@@ -131,16 +131,18 @@ Here are some of the courses I took:
 
 ## **Interests** 🎨
 - piano (check out [this clip](https://youtube.com/clip/UgkxlRIhGJqhNfKIHo6oJgLqtGlehYs2RzR_?si=ztX3tDY_P7VGRzS1 "Chopin - Nocturne Op. 9 No. 2")) and guitar
-- digital photography (search `#ph` hashtag in my personal [Telegram channel](https://t.me/meinluftschloss))
 - teaching ([coding](https://github.com/rayannott/teaching-coding), for example; there's also math olympiades, but it's all in Russian)
 - swimming, cycling and hiking
-- learning
+- learning!
 - coding
     - algorithms
     - puzzle games
     - coming up with coding problems 
     - writing unreadable one-liners in Python: [check out here](https://gist.github.com/rayannott/3291a185744d7c71ab14844ff3d9b484) (and feel free to add more)
     - check out my progress on [leetcode](https://leetcode.com/rayannott/) and on [ProjectEuler](https://projecteuler.net/friends) (add me as a friend: `1806518_hxYZDigZ3jQjJZgworwIBfFyol0Qwaj8`)
+- cinema (let's talk about movies!)
+- reading (mostly the classics: Russian _and_ English)
+- digital photography (search `#ph` hashtag in my personal [Telegram channel](https://t.me/meinluftschloss))
 
 
 ## **How to reach me** 📫
