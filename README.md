@@ -141,7 +141,7 @@ Here are some of the courses I took:
     - writing unreadable one-liners in Python: [check out here](https://gist.github.com/rayannott/3291a185744d7c71ab14844ff3d9b484) (and feel free to add more)
     - check out my progress on [leetcode](https://leetcode.com/rayannott/) and on [ProjectEuler](https://projecteuler.net/friends) (add me as a friend: `1806518_hxYZDigZ3jQjJZgworwIBfFyol0Qwaj8`)
 - cinema (let's talk about movies!)
-- reading (mostly the classics: Russian _and_ English)
+- reading (mostly the classics: Russian _and_ English); some of my favorites include: [Perfume](https://en.wikipedia.org/wiki/Perfume_(novel)), [Собачье сердце](https://en.wikipedia.org/wiki/Heart_of_a_Dog), [Animal Farm](https://en.wikipedia.org/wiki/Animal_Farm), [Matilda](https://en.wikipedia.org/wiki/Matilda_(novel)), [Pygmalion](https://en.wikipedia.org/wiki/Pygmalion_(play))
 - digital photography (search `#ph` hashtag in my personal [Telegram channel](https://t.me/meinluftschloss))
 
 
