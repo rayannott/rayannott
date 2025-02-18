@@ -127,8 +127,9 @@ Here are some of the courses I took:
     - puzzle games
     - coming up with coding problems 
     - writing unreadable one-liners in Python: [check out here](https://gist.github.com/rayannott/3291a185744d7c71ab14844ff3d9b484) (and feel free to add more)
-    - check out my progress on [leetcode](https://leetcode.com/rayannott/) and on [ProjectEuler](https://projecteuler.net/friends) (add me as a friend: `1806518_hxYZDigZ3jQjJZgworwIBfFyol0Qwaj8`)
-
+    - check out my progress on [leetcode](https://leetcode.com/rayannott/) 
+    - check out my progress on [ProjectEuler](https://projecteuler.net/friends) (also see badge below; add me as a friend: `1806518_hxYZDigZ3jQjJZgworwIBfFyol0Qwaj8`)
+    ![](https://projecteuler.net/profile/rayannott.png)
 
 ## **How to reach me** 📫
 Send me an email: airat.valiullin@tum.de or
