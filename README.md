@@ -36,7 +36,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 2. [HackaTUM 2022](https://hack.tum.de/past-events/events-2022/ "HackaTUM 2022 website"), Munich, Germany, Nov 2022.
     - My team solved the challenge problem of [_Rohde & Schwarz_](https://www.rohde-schwarz.com/ "Rohde & Schwarz website") about the microwave imaging technology (see code [here](https://github.com/rayannott/microwave-imaging "WARNING: bad code, just a prototype"))
 3. [Ferienakademie 2023](https://www.ferienakademie.de/ "Ferienakademie website"), Sarntal, South Tyrol, Italy, Sep 2023. (see the photos [below](#gallery))
-    - I participated in the seminar course _"Stochastic Evolution Equations: From martingales to applications"_ by Prof. Dr. rer. nat. Johannes Zimmer and Prof. Dr. Günther Grün (see course description [here](https://www.math.cit.tum.de/math/forschung/gruppen/analysis-and-mathbio/teaching/fa2023/))
+    - I participated in the seminar course _"Stochastic Evolution Equations: From martingales to applications"_ by Prof. Dr. Johannes Zimmer and Prof. Dr. Günther Grün (see course description [here](https://www.math.cit.tum.de/math/forschung/gruppen/analysis-and-mathbio/teaching/fa2023/))
     - I gave a lecture on thermodynamic parametrization of the neural networks based on [this paper](https://www.aimsciences.org/article/doi/10.3934/fods.2019019) (my [code experiments](https://github.com/rayannott/ThermodynamicParameterizationOfNNs) for the talk)
     - I also went to many hikes and had a lot of quality time with my fellow students and professors <!-- (I hope they take me again next year 😋); upd: they didn't :( -->
 4. [HackaTUM 2023](https://hack.tum.de/past-events/events-2023/ "HackaTUM 2023 website"), Munich, Germany, Nov 2023. (see the photos [below](#gallery); I'm on the main page photo there)
@@ -53,6 +53,8 @@ My team solved the challenge problem of
     - My teammates and I solved the DELL's challenge: we've developed the AI-chatbots for the startup aggregator using svelte and langchain/openai
     - Take a look at the backend [here](https://github.com/rayannott/dell-chatbot) (when and if we take it public that is)
     - _AND we actually won it!_ 🎉 (see the devpost page [here](https://devpost.com/software/dell-hackstreet-boys))
+<!-- 9. [START Zürich Hackathon](), Zürich, Switzerland, Mar 2025. -->
+
 
 ## **Skills** 📚
 ### Human Languages
@@ -73,14 +75,14 @@ Colour coding:
 - 🟣 Python
     - 🟣 plotly
     - 🟣 numpy 🟣 scipy 🟣 matplotlib
+    - 🟣 sympy
     - 🟢 pandas
     - 🟢 pygame, pygame_gui
-    - 🟢 sympy
     - 🟢 pytorch
     - 🟠 (plotly) dash, dmc
     - 🟠 pytest, unittest
     - 🟠 scikit-learn
-    - 🔵 sqlite3, sqlalchemy
+    - 🟠 sqlite3, sqlalchemy
     - 🔵 openai 🔵 langchain  (prompt engineering, pydantic-structured outputs)
     - 🔵 tkinter 🔵 streamlit 🔵 rich 🔵 telebot
     - 🔵 fastapi
@@ -93,8 +95,8 @@ Colour coding:
 - ⚪ R
 - ⚪ Julia
 #### Other
-- 🟣 creating lists in markdown
 - 🟣 VSCode
+- 🟣 creating lists in markdown
 - 🟢 git (in GitHub[actions, pr, issues, etc.], GitLab, TFS)
 - 🟠 LaTeX (mostly in Overleaf)
 - 🟠 MSOffice (duh...)
@@ -133,7 +135,7 @@ Here are some of the courses I took:
 - piano (check out [this clip](https://youtube.com/clip/UgkxlRIhGJqhNfKIHo6oJgLqtGlehYs2RzR_?si=ztX3tDY_P7VGRzS1 "Chopin - Nocturne Op. 9 No. 2")) and guitar
 - teaching ([coding](https://github.com/rayannott/teaching-coding), for example; there's also math olympiades, but it's all in Russian)
 - swimming, cycling and hiking
-- learning!
+- learning
 - coding
     - algorithms
     - puzzle games
@@ -143,8 +145,9 @@ Here are some of the courses I took:
     - check out my progress on [ProjectEuler](https://projecteuler.net/friends) (see badge below; add me as a friend: `1806518_hxYZDigZ3jQjJZgworwIBfFyol0Qwaj8`)
     ![](https://projecteuler.net/profile/rayannott.png)
 - cinema (let's talk about movies!)
-- reading (mostly the classics: Russian _and_ English); some of my favorites include: [Perfume](https://en.wikipedia.org/wiki/Perfume_(novel)), [Собачье сердце](https://en.wikipedia.org/wiki/Heart_of_a_Dog), [Animal Farm](https://en.wikipedia.org/wiki/Animal_Farm), [Matilda](https://en.wikipedia.org/wiki/Matilda_(novel)), [Pygmalion](https://en.wikipedia.org/wiki/Pygmalion_(play))
+- reading (mostly the classics: Russian and English); some of my favorites include: [Perfume](https://en.wikipedia.org/wiki/Perfume_(novel)), [Собачье сердце](https://en.wikipedia.org/wiki/Heart_of_a_Dog), [Animal Farm](https://en.wikipedia.org/wiki/Animal_Farm), [Matilda](https://en.wikipedia.org/wiki/Matilda_(novel)), [Pygmalion](https://en.wikipedia.org/wiki/Pygmalion_(play))
 - digital photography (search `#ph` hashtag in my personal [Telegram channel](https://t.me/meinluftschloss))
+- cooking (yes!)
 
 
 ## **How to reach me** 📫
@@ -172,8 +175,23 @@ and actually use (in no particular order):
 - [rawtherapee](https://www.rawtherapee.com/) - an open source raw image processing software
 - [regexlearn](https://regexlearn.com/) - an interactive platform for learning regular expressions
 - [factorio](https://factorio.com/) - the best factory-building video game about logistics, resource management and optimization
-<!-- - [advent of code](https://adventofcode.com/2024/about) - a yearly programming competition -->
-
+### YouTube Channels
+I can't stress enough how much amazing free content there is on YouTube, and here are some of my favorite channels:
+- [numberphile](https://www.youtube.com/@numberphile) - popular maths
+- [3blue1brown](https://www.youtube.com/@3blue1brown) - visual maths
+- [anthonywritescode](https://www.youtube.com/@anthonywritescode) - python programming
+- [Computerphile](https://www.youtube.com/@Computerphile) - popular computer science
+- [Reducible](https://www.youtube.com/@Reducible) - algorithms visualized
+- [NotJustBikes](https://www.youtube.com/@NotJustBikes) - cities and urban planning
+- [RobWords](https://www.youtube.com/@RobWords) - linguistics
+- [SebastianLague](https://www.youtube.com/@SebastianLague) - (physics) simulations
+- [SpanningTree](https://www.youtube.com/@SpanningTree) - visual math and computer science
+- [vcubingx](https://www.youtube.com/@vcubingx) - visual math and computer science
+- [StuffMadeHere](https://www.youtube.com/@StuffMadeHere) - DIY, overcooked
+- [TechnologyConnections](https://www.youtube.com/@TechnologyConnections) - the technology behind everyday devices
+- [ZoeBee](https://www.youtube.com/@zoe_bee) - social science, education
+- [aragusea](https://www.youtube.com/@aragusea) - home cooking with food science
+- [EthanChlebowski](https://www.youtube.com/@EthanChlebowski) - cooking
 
 ## **My GitHub Summary** 
 ![image](https://github-profile-trophy.vercel.app/?username=rayannott&theme=tokyonight)
