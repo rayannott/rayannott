@@ -19,14 +19,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 |Mar 2021 - Oct 2023|Research Assistant|[Russian Academy of Sciences](https://new.ras.ru/en/) & [Institute of Applied Mechanics](https://iam.ras.ru)| Coauthored research papers on the nonlinear vibrations of overhead power lines. Conducted numerical experiments and validated the results. |
 |Jun 2022 - Oct 2022|Student Intern|[Schlumberger Moscow Research Center](https://www.slb.com/)| Sketched numerical algorithms for solving the inverse acoustics problem. | 
 |Feb 2023 - Oct 2023|HIWI Student|[TUM Robotics Lab](https://www.ce.cit.tum.de/en/air/home/)| Worked on a motion planning framework (MoveIt) to ensure save human-robot interaction. Assisted with motion capturing live data. |
-|Jan 2024 - present|Working Student|[ASMPT Germany](https://smt.asmpt.com/en/)| Developed dashboards for tracking unit test coverage, build reports, developer activity and other critical information; implemented multiprocessing, logging, and automated data updates; collaborated with colleagues on layout design and debugging. Analyzed extensive multiterrabyte bug report data and built a database for faster access and processing; established a **ETL** pipeline. Conducted numerical analysis, solving relaxation problems using Newton's method, improving the optimization process, and handling test set generation. Performed learning on component images for error prediction. |
-<!-- |.|.|.| -->
-### Research
-|Date|Title & Link|Notes|
-| :-: | :-: | :-: |
-|Jan 2022|[Reinforcement Learning for Attitude Control of a Spacecraft With Flexible Appendages](https://www.researchgate.net/publication/363840944_REINFORCEMENT_LEARNING_FOR_ATTITUDE_CONTROL_OF_A_SPACECRAFT_WITH_FLEXIBLE_APPENDAGES)|International Astronautical Congress (IAC2022) conference paper|
-|Jun 2022|[Verification of Solutions to Wave Equations Using Integral Transformations](https://www.overleaf.com/read/cscghhcmgjwn#7e5ff8 "link to the Overleaf project")|Bachelor of Science graduation thesis (not published), [code](https://github.com/rayannott/wave_pde_analytical "WARNING: bad code")|
-|Sep 2022|[Normal Vibrations of Sagging Conductors of Overhead Power Lines](https://doi.org/10.22337/2587-9618-2022-18-3-147-158)|Mechanics journal paper in colaboration with the Russian Academy of Sciences (RAS)|
+|Jan 2024 - present|Working Student|[ASMPT Germany](https://smt.asmpt.com/en/)| Developed dashboards for tracking unit test coverage, build reports, developer activity and other critical information; implemented multiprocessing, logging, and automated data updates; collaborated with colleagues on layout design and debugging. Analyzed extensive multiterrabyte bug report data and built a database for faster access and processing; established a **ETL** pipeline. Conducted numerical analysis, solving relaxation problems using Newton's method, improving the optimization process, and handling test set generation. Performed learning on component images for error prediction (MLOps). |
 <!-- |.|.|.| -->
 
 
@@ -49,12 +42,19 @@ My team solved the challenge problem of
     - [Optiver](https://www.optiver.com/) (again!) about the market making with a twist we were asked not to share :) 
     - [Solana](https://solana.com/): chess on blockchain with smart contracts
 7. [PyData Global 2024](https://pydata.org/global2024/), _virtual_, Dec 2024.
-8. 🥇 [START Munich Hackathon](https://www.startmunich.de/), Munich, Germany, Dec 2024. ([photos](#gallery))
+8. 🥇 [START Hack Munich](https://www.startmunich.de/), Munich, Germany, Dec 2024. ([photos](#gallery))
     - My teammates and I solved the DELL's challenge: we've developed the AI-chatbots for the startup aggregator using svelte and langchain/openai
-    - Take a look at the backend [here](https://github.com/rayannott/dell-chatbot) (when and if we take it public that is)
     - _AND we actually won it!_ 🎉 (see the devpost page [here](https://devpost.com/software/dell-hackstreet-boys))
-<!-- 9. [START Zürich Hackathon](), Zürich, Switzerland, Mar 2025. -->
+    - Take a look at the backend [here](https://github.com/rayannott/dell-chatbot) (when and if we take it public that is — the negotiations with DELL contunue about selling the solution)
+<!-- 9. [START Hack St. Gallen](https://start-hack-2025.devpost.com/), St. Gallen, Switzerland, Mar 2025. -->
 
+### Research
+|Date|Title & Link|Notes|
+| :-: | :-: | :-: |
+|Jan 2022|[Reinforcement Learning for Attitude Control of a Spacecraft With Flexible Appendages](https://www.researchgate.net/publication/363840944_REINFORCEMENT_LEARNING_FOR_ATTITUDE_CONTROL_OF_A_SPACECRAFT_WITH_FLEXIBLE_APPENDAGES)|International Astronautical Congress (IAC2022) conference paper|
+|Jun 2022|[Verification of Solutions to Wave Equations Using Integral Transformations](https://www.overleaf.com/read/cscghhcmgjwn#7e5ff8 "link to the Overleaf project")|Bachelor of Science graduation thesis (not published), [code](https://github.com/rayannott/wave_pde_analytical "WARNING: bad code")|
+|Sep 2022|[Normal Vibrations of Sagging Conductors of Overhead Power Lines](https://doi.org/10.22337/2587-9618-2022-18-3-147-158)|Mechanics journal paper in colaboration with the Russian Academy of Sciences (RAS)|
+<!-- |.|.|.| -->
 
 ## **Skills** 📚
 ### Human Languages
@@ -73,23 +73,26 @@ Colour coding:
 🟣 ${\color{Orchid}\text{expert}}$,🟢 ${\color{Green}\text{proficient}}$, 🟠 ${\color{Orange}\text{advanced}}$, 🔵 ${\color{lightblue}\text{competent}}$, ⚪ beginner.
 #### Programming languages
 - 🟣 Python
-    - 🟣 plotly
-    - 🟣 numpy 🟣 scipy 🟣 matplotlib
-    - 🟣 sympy
-    - 🟢 pandas
-    - 🟢 pygame, pygame_gui
-    - 🟢 pytorch
-    - 🟠 (plotly) dash, dmc
-    - 🟠 pytest, unittest
-    - 🟠 scikit-learn
-    - 🟠 sqlite3, sqlalchemy
-    - 🔵 openai 🔵 langchain  (prompt engineering, pydantic-structured outputs)
-    - 🔵 tkinter 🔵 streamlit 🔵 rich 🔵 telebot
-    - 🔵 fastapi
-    - ⚪ flask
-    - other: google api, beautifulsoup, etc. (basically any as long as there's a decent documentation)
+    - 🟣 `pathlib`, `itertools`, `functools`, `dataclasses`, etc. (almost the entire standard library)
+    - 🟣 `numpy` 🟣 `scipy` 🟣 `matplotlib`
+    - 🟣 `plotly`
+    - 🟣 `sympy`
+    - 🟢 `pytorch`
+    - 🟢 `pandas`
+    - 🟢 `pygame`, `pygame_gui`
+    - 🟠 `plotly dash`, `dmc`
+    - 🟠 `pytest`, `unittest`
+    - 🟠 `scikit-learn`
+    - 🟠 `sqlite3`, `sqlalchemy`
+    - 🟠 `openai` 🔵 `langchain`  (prompt engineering, pydantic-structured outputs)
+    - 🟠 `rich` 🟠 `click` 🟠 `telebot`
+    - 🔵 `tkinter` 🔵 `streamlit` 🔵 `PyQt`
+    - 🔵 `fastapi`
+    - 🔵 `pyspark`
+    - ⚪ `flask`
+    - other: `google` api, `beautifulsoup`, `crontab`, etc. (basically any as long as there's a decent documentation)
 - 🟠 SQL
-- 🟠 C++
+- 🟠 C++ (`omp`, `MPI`, `SIMD`, `Qt`)
 - 🔵 MATLAB
 - ⚪ Rust
 - ⚪ R
@@ -97,14 +100,17 @@ Colour coding:
 #### Other
 - 🟣 VSCode
 - 🟣 creating lists in markdown
-- 🟢 git (in GitHub[actions, pr, issues, etc.], GitLab, TFS)
-- 🟠 LaTeX (mostly in Overleaf)
-- 🟠 MSOffice (duh...)
+- 🟢 algorithms, data structures (esp. graphs)
+- 🟢 git (in GitHub[actions, PR, issues, etc.], GitLab, TFS)
+- 🟠 $\LaTeX$ (mostly in $\mathbb{O}$verleaf)
+- 🟠 ETL/ELT, MLOps (Apache Airflow)
+- 🟠 MSOffice/LibreOffice
+- 🔵 Data Processing (Apache Spark)
 - 🔵 SolidWorks
 - 🔵 Linux (Ubuntu)
 - 🔵 Docker
 - 🔵 Figma
-- ⚪ Azure DevOps Servers (fna TFS)
+- ⚪ Azure DevOps Servers (formerly TFS)
 
 ## Courses
 ### University Courses
