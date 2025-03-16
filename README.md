@@ -102,7 +102,7 @@ Colour coding:
 - 🟣 creating lists in markdown
 - 🟢 algorithms, data structures (esp. graphs)
 - 🟢 git (in GitHub[actions, PR, issues, etc.], GitLab, TFS)
-- 🟠 $\LaTeX$ (mostly in $\mathbb{O}$verleaf)
+- 🟠 $\LaTeX$ (mostly in Overleaf)
 - 🟠 ETL/ELT, MLOps (Apache Airflow)
 - 🟠 MSOffice/LibreOffice
 - 🔵 Data Processing (Apache Spark)
