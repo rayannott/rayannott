@@ -45,10 +45,12 @@ My team solved the challenge problem of
     - [Solana](https://solana.com/): chess on blockchain with smart contracts
 7. [PyData Global 2024](https://pydata.org/global2024/), _virtual_, Dec 2024.
 8. 🥇 [START Hack Munich](https://www.startmunich.de/), Munich, Germany, Dec 2024. ([photos](#gallery))
-    - My teammates and I solved the DELL's challenge: we've developed the AI-chatbots for the startup aggregator using svelte and langchain/openai
+    - My teammates and I solved the DELL's challenge: we've developed the AI-chatbots for the startup aggregator using `svelte` for the frontend and `langchain`/`openai` with `fastapi` for the backend
     - _AND we actually won it!_ 🎉 (see the devpost page [here](https://devpost.com/software/dell-hackstreet-boys))
     - Take a look at the backend [here](https://github.com/rayannott/dell-chatbot) (when and if we take it public that is — the negotiations with DELL contunue about selling the solution)
-<!-- 9. [START Hack St. Gallen](https://start-hack-2025.devpost.com/), St. Gallen, Switzerland, Mar 2025. -->
+9. 🥇 [START Hack St. Gallen](https://www.startglobal.org/start-hack/home/), St. Gallen, Switzerland, Mar 2025. ([photos](#gallery))
+    - My team and I solved the challenge of Syngenta about the data-driven recommendation app for the farmers; once again, we used `svelte` for the frontend and `fastapi` for the backend, as well as linking the company-provided data to make the recommendations
+    - _AND we won it (**yes, again**)!_ 🎉 (see the devpost page [here](https://start-hack-2025.devpost.com/))
 
 ### Research
 |Date|Title & Link|Notes|
