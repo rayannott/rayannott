@@ -66,8 +66,8 @@ My team solved the challenge problem of
 |----------|:-------:|
 | English |  [C1/C2](https://drive.google.com/file/d/1iolYW3rq6XkjpksnMkJvFKeyySMtdwK8/view?usp=sharing "IELTS band 8.0 (view certificate; WARNING: bad photo)") |
 | German | B2 |
-| Russian | native |
-| Tatar | native |
+| Russian | native/bilingual|
+| Tatar | native/bilingual |
 
 ### Technical Skills
 > [!NOTE]
