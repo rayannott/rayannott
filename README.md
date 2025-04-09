@@ -199,8 +199,6 @@ I can't stress enough how much amazing free content there is on YouTube, and her
 - [vcubingx](https://www.youtube.com/@vcubingx) - visual math and computer science
 - [StuffMadeHere](https://www.youtube.com/@StuffMadeHere) - DIY, overcooked
 - [TechnologyConnections](https://www.youtube.com/@TechnologyConnections) - the technology behind everyday devices
-- [ZoeBee](https://www.youtube.com/@zoe_bee) - social science, education
-- [aragusea](https://www.youtube.com/@aragusea) - home cooking with food science
 - [EthanChlebowski](https://www.youtube.com/@EthanChlebowski) - cooking
 
 ## **My GitHub Summary** 
@@ -217,9 +215,10 @@ more on badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
 <img title="HackaTUM23 me and my team of fellow hackers" src="./pictures/hackaTUM23.jpg"  width="60%">
 <img title="Ferienakademie 2023: course photo" src="./pictures/ferienakademie2023-1.jpg"  width="48%">
 <img title="Ferienakademie 2023: me giving a lecture on thermodynamic parametrization of the neural networks" src="./pictures/ferienakademie2023-2.jpg"  width="48%">
-<img title="PyCon Sweden 2024: lightning talk" src="./pictures/pycon_sweden_2024.jpg" width="30%">
+<img title="PyCon Sweden 2024: lightning talk" src="./pictures/pycon_sweden_2024.jpg" width="26%">
 <img title="Deep Learning for Physics talk" src="./pictures/DL4P-talk.jpg"  width="68%">
 <img title="HackaTUM24" src="./pictures/hackaTUM24.jpg"  width="49%">
+<img title="My Room" src="./pictures/my-workplace-room.jpg"  width="44%">
 <img title="START Hack (we won!)" src="./pictures/START-hack-we-won-yay.jpg"  width="49%">
 </p>
 
