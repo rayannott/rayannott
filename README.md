@@ -220,6 +220,8 @@ more on badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
 <img title="HackaTUM24" src="./pictures/hackaTUM24.jpg"  width="49%">
 <img title="My Room" src="./pictures/my-workplace-room.jpg"  width="44%">
 <img title="START Hack (we won!)" src="./pictures/START-hack-we-won-yay.jpg"  width="49%">
+<img title="START Hack (we won AGAIN!)" src="./pictures/START-hack-we-won-again.jpeg"  width="45%">
+
 </p>
 
 Я осуждаю [агрессию России против Украины](https://ru.wikipedia.org/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%83_(%D1%81_2022)). Мир на Украине 🇺🇦. Свободу России 🇷🇺
