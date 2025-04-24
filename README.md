@@ -205,6 +205,7 @@ I can't stress enough how much amazing free content there is on YouTube, and her
 ![image](https://github-profile-trophy.vercel.app/?username=rayannott&theme=tokyonight)
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayannott&theme=tokyonight)
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=rayannott&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=rayannott&style=flat-square)
 
 more on badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
 
