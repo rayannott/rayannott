@@ -83,16 +83,17 @@ Colour coding:
     - 🟣 `sympy`
     - 🟢 `pytorch`
     - 🟢 `pandas`
-    - 🟢 `pygame`, `pygame_gui`
+    - 🟢 `pygame`, `pygame-gui`
     - 🟠 `plotly dash`, `dmc`
-    - 🟠 `pytest`, `unittest`
+    - 🟠 `pytest`
     - 🟠 `scikit-learn`
     - 🟠 `sqlite3`, `sqlalchemy`
     - 🟠 `openai` 🔵 `langchain`  (prompt engineering, pydantic-structured outputs)
     - 🟠 `rich` 🟠 `click` 🟠 `telebot`
     - 🔵 `tkinter` 🔵 `streamlit` 🔵 `PyQt`
-    - 🔵 `fastapi`
-    - 🔵 `pyspark`
+    - 🔵 `fastapi` `pyTelegramBotAPI`
+    - 🔵 `pymongo`
+    - 🔵 `pyspark`, `apache-airflow`
     - ⚪ `flask`
     - other: `google` api, `beautifulsoup`, `crontab`, etc. (basically any as long as there's a decent documentation)
 - 🟠 SQL
@@ -104,14 +105,14 @@ Colour coding:
 #### Other
 - 🟣 VSCode
 - 🟣 creating lists in markdown
-- 🟢 algorithms, data structures (esp. graphs)
+- 🟢 algorithms, data structures
 - 🟢 git (in GitHub[actions, PR, issues, etc.], GitLab, TFS)
 - 🟠 $\LaTeX$ (mostly in Overleaf)
-- 🟠 ETL/ELT, MLOps (Apache Airflow)
-- 🟠 MSOffice/LibreOffice
+- 🟠 ETL/ELT
+- 🟠 MSOffice/LibreOffice...
 - 🔵 Data Processing (Apache Spark)
 - 🔵 SolidWorks
-- 🔵 Linux (Ubuntu)
+- 🔵 Linux (Ubuntu, WSL)
 - 🔵 Docker
 - 🔵 Figma
 - ⚪ Azure DevOps Servers (formerly TFS)
