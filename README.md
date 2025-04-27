@@ -51,6 +51,9 @@ My team solved the challenge problem of
 9. 🥇 [START Hack St. Gallen](https://www.startglobal.org/start-hack/home/), St. Gallen, Switzerland, Mar 2025. ([photos](#gallery))
     - My team and I solved the challenge of Syngenta about the data-driven recommendation app for the farmers; once again, we used `svelte` for the frontend and `fastapi` for the backend, as well as linking the company-provided data to make the recommendations
     - _AND we won it (**yes, again**)!_ 🎉 (see the devpost page [here](https://start-hack-2025.devpost.com/))
+10. [TUM.ai Makeathon](https://makeathon.tum-ai.com/), Munich, Germany, Apr 2025.
+    - We solved the OpenAI wild track challenge and built a secure wrapper around private company datasets for the student agents to pay-and-learn from it;
+    - Take a look at our terrible code [here](https://github.com/kaandrmz/tumai-oai)!
 
 ### Research
 |Date|Title & Link|Notes|
