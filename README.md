@@ -92,9 +92,9 @@ Colour coding:
     - 🟠 `rich` 🟠 `click` 🟠 `telebot`
     - 🔵 `tkinter` 🔵 `streamlit` 🔵 `PyQt`
     - 🔵 `fastapi` `pyTelegramBotAPI`
-    - 🔵 `pymongo`
     - 🔵 `pyspark`, `apache-airflow`
-    - ⚪ `flask`
+    - 🔵 `flask`
+    - ⚪ `pymongo`
     - other: `google` api, `beautifulsoup`, `crontab`, etc. (basically any as long as there's a decent documentation)
 - 🟠 SQL
 - 🟠 C++ (`omp`, `MPI`, `SIMD`, `Qt`)
@@ -115,6 +115,7 @@ Colour coding:
 - 🔵 Linux (Ubuntu, WSL)
 - 🔵 Docker
 - 🔵 Figma
+- ⚪ AWS (EC2, lambdas)
 - ⚪ Azure DevOps Servers (formerly TFS)
 
 ## Courses
