@@ -102,9 +102,7 @@ Colour coding:
 - 🟠 SQL
 - 🟠 C++ (`omp`, `MPI`, `SIMD`, `Qt`)
 - 🔵 MATLAB
-- ⚪ Rust
-- ⚪ R
-- ⚪ Julia
+- ⚪ Rust, R, Julia
 #### Other
 - 🟣 VSCode
 - 🟣 creating lists in markdown
@@ -114,10 +112,9 @@ Colour coding:
 - 🟠 ETL/ELT
 - 🟠 MSOffice/LibreOffice...
 - 🔵 Data Processing (Apache Spark)
-- 🔵 SolidWorks
-- 🔵 Linux (Ubuntu, WSL)
+- 🔵 Linux (Fedora [Desktop], Amazon Linux, Ubuntu, WSL)
 - 🔵 Docker
-- 🔵 Figma
+- 🔵 SolidWorks, Figma
 - ⚪ AWS (EC2, lambdas)
 - ⚪ Azure DevOps Servers (formerly TFS)
 
