@@ -7,8 +7,8 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 |        Period       |      School   |  Programm | Website |
 |:-------------------:|:-------------:|:------:|:-----:|
 | Sep 2007 - Aug 2018 |  Liceum 146, Kazan | just a normal high school (grade 1.2) | [-link-](https://edu.tatar.ru/nsav/licey146) |
-| Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  ${\color{LimeGreen}\text{BSc}}$ Applied Mathematics and Physics (grade 1.5) | [mipt.ru](https://mipt.ru/english/) [wiki](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) |
-| Oct 2022 - July 2025 | Technical University of Munich | ${\color{LimeGreen}\text{MSc}}$ Informatics, Computational Science and Engineering (grade ~1.8) | [tum.de](https://www.tum.de/en/) [wiki](https://en.wikipedia.org/wiki/Technical_University_of_Munich) |
+| Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  `BSc` Applied Mathematics and Physics (grade 1.5) | [mipt.ru](https://mipt.ru/english/) [wiki](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) |
+| Oct 2022 - July 2025 | Technical University of Munich | `MSc` Informatics, Computational Science and Engineering (grade ~1.7) | [tum.de](https://www.tum.de/en/) [wiki](https://en.wikipedia.org/wiki/Technical_University_of_Munich) |
 
 
 ## **Work, research and more** 🧑‍💻
@@ -77,7 +77,7 @@ My team solved the challenge problem of
 > _I'm not a big fan of how this section looks like. Please, submit your formatting suggestion here: https://github.com/rayannott/rayannott/issues/1._
 
 Colour coding: 
-🟣 ${\color{Orchid}\text{expert}}$,🟢 ${\color{Green}\text{proficient}}$, 🟠 ${\color{Orange}\text{advanced}}$, 🔵 ${\color{lightblue}\text{competent}}$, ⚪ beginner.
+🟣 expert, 🟢 proficient, 🟠 advanced, 🔵 competent, ⚪ beginner.
 #### Programming languages
 - 🟣 Python
     - 🟣 `pathlib`, `itertools`, `functools`, `dataclasses`, etc. (almost the entire standard library)
