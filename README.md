@@ -8,7 +8,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 |:-------------------:|:-------------:|:------:|:-----:|
 | Sep 2007 - Aug 2018 |  Liceum 146, Kazan | just a normal high school (grade 1.2) | [-link-](https://edu.tatar.ru/nsav/licey146) |
 | Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  `BSc` Applied Mathematics and Physics (grade 1.5) | [mipt.ru](https://mipt.ru/english/) [wiki](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) |
-| Oct 2022 - July 2025 | Technical University of Munich | `MSc` Informatics, Computational Science and Engineering (grade ~1.7) | [tum.de](https://www.tum.de/en/) [wiki](https://en.wikipedia.org/wiki/Technical_University_of_Munich) |
+| Oct 2022 - Jul 2025 | Technical University of Munich | `MSc` Informatics, Computational Science and Engineering (grade ~1.7) | [tum.de](https://www.tum.de/en/) [wiki](https://en.wikipedia.org/wiki/Technical_University_of_Munich) |
 
 
 ## **Work, research and more** 🧑‍💻
@@ -20,7 +20,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 |Jun 2022 - Oct 2022|Student Intern|[Schlumberger Moscow Research Center](https://www.slb.com/)| Sketched numerical algorithms for solving the inverse acoustics problem. | 
 |Feb 2023 - Oct 2023|HIWI Student|[TUM Robotics Lab](https://www.ce.cit.tum.de/en/air/home/)| Worked on a motion planning framework (MoveIt) to ensure save human-robot interaction. Assisted with motion capturing live data; analysed and visualized the sensor data. |
 |Apr 2024 - May 2024|Software Developer|_freelance_| Developed a telegram bot for a local business (see [here](https://github.com/rayannott/wizard-club-bot) if I ever take it public). Set everything up from scratch: telegram API, database **ORM**, **logging**, google sheets API, etc. |
-|Jan 2024 - present|Working Student|[ASMPT Germany](https://smt.asmpt.com/en/)| Developed dashboards for tracking unit test coverage, build reports, developer activity and other critical information; implemented multiprocessing, logging, and automated data updates; collaborated with colleagues on layout design and debugging; deployed. Analyzed extensive multiterrabyte bug report data and built a database for faster access and processing; established a **ETL** pipeline. Conducted numerical analysis, solving relaxation problems using Newton's method, improving the optimization process, and handling test set generation. Performed learning on component images for error prediction (**MLOps**). |
+|Jan 2024 - Jul 2025|Working Student|[ASMPT Germany](https://smt.asmpt.com/en/)| Developed dashboards for tracking unit test coverage, build reports, developer activity and other critical information; implemented multiprocessing, logging, and automated data updates; collaborated with colleagues on layout design and debugging; deployed. Analyzed extensive multiterrabyte bug report data and built a database for faster access and processing; established a **ETL** pipeline. Conducted numerical analysis, solving relaxation problems using Newton's method, improving the optimization process, and handling test set generation. Performed learning on component images for error prediction (**MLOps**). |
 <!-- |.|.|.| -->
 
 
@@ -103,20 +103,22 @@ Colour coding:
 - 🟠 C++ (`omp`, `MPI`, `SIMD`, `Qt`)
 - 🔵 MATLAB
 - ⚪ Rust, R, Julia
+
 #### Other
 - 🟣 VSCode
 - 🟣 creating lists in markdown
 - 🟢 algorithms, data structures
+- 🟢 signal processing, information retrieval
 - 🟢 git (in GitHub[actions, PR, issues, etc.], GitLab, TFS)
-- 🟠 $\LaTeX$ (mostly in Overleaf)
+- 🟢 $\LaTeX$
 - 🟠 ETL/ELT
 - 🟠 MSOffice/LibreOffice...
+- 🟠 Linux (Ubuntu, Fedora [Desktop], Amazon Linux, WSL)
 - 🔵 Data Processing (Apache Spark)
-- 🔵 Linux (Fedora [Desktop], Amazon Linux, Ubuntu, WSL)
 - 🔵 Docker
 - 🔵 SolidWorks, Figma
-- ⚪ AWS (EC2, lambdas)
-- ⚪ Azure DevOps Servers (formerly TFS)
+- ⚪ AWS (EC2, lambdas, S3)
+- ⚪ Azure DevOps (formerly TFS)
 
 ## Courses
 ### University Courses
@@ -146,17 +148,17 @@ Here are some of the courses I took:
 ## **Interests** 🎨
 - piano (check out [this clip](https://youtube.com/clip/UgkxlRIhGJqhNfKIHo6oJgLqtGlehYs2RzR_?si=ztX3tDY_P7VGRzS1 "Chopin - Nocturne Op. 9 No. 2")) and guitar
 - teaching ([coding](https://github.com/rayannott/teaching-coding), for example; there's also math olympiades, but it's all in Russian)
-- swimming, cycling and hiking
 - learning
+- swimming, cycling and hiking (occasionally, jogging)
 - coding
     - algorithms
     - puzzle games
-    - coming up with coding problems 
+    - conducting technical interviews
     - writing unreadable one-liners in Python: [check out here](https://gist.github.com/rayannott/3291a185744d7c71ab14844ff3d9b484) (and feel free to add more)
     - check out my progress on [leetcode](https://leetcode.com/rayannott/)
     - check out my progress on [ProjectEuler](https://projecteuler.net/friends) (see badge below; add me as a friend: `1806518_hxYZDigZ3jQjJZgworwIBfFyol0Qwaj8`)
     ![](https://projecteuler.net/profile/rayannott.png)
-- cinema (let's talk about movies!)
+- cinema (let's talk about movies and take a look at my [personal database](https://github.com/rayannott/moviesdb)!)
 - reading (mostly the classics: Russian and English); some of my favorites include: [Perfume](https://en.wikipedia.org/wiki/Perfume_(novel)), [Собачье сердце](https://en.wikipedia.org/wiki/Heart_of_a_Dog), [Animal Farm](https://en.wikipedia.org/wiki/Animal_Farm), [Matilda](https://en.wikipedia.org/wiki/Matilda_(novel)), [Pygmalion](https://en.wikipedia.org/wiki/Pygmalion_(play))
 - digital photography (search `#ph` hashtag in my personal [Telegram channel](https://t.me/meinluftschloss))
 - cooking (yes!)
@@ -224,6 +226,7 @@ more on badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
 <img title="My Room" src="./pictures/my-workplace-room.jpg"  width="44%">
 <img title="START Hack (we won!)" src="./pictures/START-hack-we-won-yay.jpg"  width="49%">
 <img title="START Hack (we won AGAIN!)" src="./pictures/START-hack-we-won-again.jpeg"  width="45%">
+<img title="Syngenta kindly invited us to see their facilities in Italy because we won their case" src="./pictures/syngenta-trip-atessa.jpg"  width="49%">
 
 </p>
 
