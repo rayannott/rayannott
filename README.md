@@ -21,7 +21,7 @@ Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
 |Feb 2023 - Oct 2023|HIWI Student|[TUM Robotics Lab](https://www.ce.cit.tum.de/en/air/home/)| Worked on a motion planning framework (MoveIt) to ensure save human-robot interaction. Assisted with motion capturing live data; analysed and visualized the sensor data. |
 |Apr 2024 - May 2024|Software Developer|_freelance_| Developed a telegram bot for a local business (see [here](https://github.com/rayannott/wizard-club-bot) if I ever take it public). Set everything up from scratch: telegram API, database **ORM**, **logging**, google sheets API, etc. |
 |Jan 2024 - Jul 2025|Working Student|[ASMPT Germany](https://smt.asmpt.com/en/)| Developed dashboards for tracking unit test coverage, build reports, developer activity and other critical information; implemented multiprocessing, logging, and automated data updates; collaborated with colleagues on layout design and debugging; deployed. Analyzed extensive multiterrabyte bug report data and built a database for faster access and processing; established a **ETL** pipeline. Conducted numerical analysis, solving relaxation problems using Newton's method, improving the optimization process, and handling test set generation. Performed learning on component images for error prediction (**MLOps**). |
-<!-- |Jul 2025 - present|Software Developer|[Omnisent](https://www.linkedin.com/company/omnisent/posts/?feedView=all)| | -->
+|Aug 2025 - present|Software Developer (Cloud)|[Entrix](https://www.entrixenergy.com/en/home/)| |
 
 
 ### Events
