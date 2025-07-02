@@ -1,6 +1,6 @@
 # Airat Valiullin 👋
 You've reached my personal GitHub page!\
-Let this `README.md` be my CV 😉 (not sure it's supposed to be that though)
+Let this `README.md` be my complete resume (not sure it's supposed to be that though). Also check out my traditional one-page CV [here](files/CV.pdf).
 
 
 ## **Education** 🎓
@@ -59,15 +59,15 @@ My team solved the challenge problem of
 |Date|Title & Link|Notes|
 | :-: | :-: | :-: |
 |Jan 2022|[Reinforcement Learning for Attitude Control of a Spacecraft With Flexible Appendages](https://www.researchgate.net/publication/363840944_REINFORCEMENT_LEARNING_FOR_ATTITUDE_CONTROL_OF_A_SPACECRAFT_WITH_FLEXIBLE_APPENDAGES)|International Astronautical Congress (IAC2022) conference paper|
-|Jun 2022|[Verification of Solutions to Wave Equations Using Integral Transformations](https://www.overleaf.com/read/cscghhcmgjwn#7e5ff8 "link to the Overleaf project")|Bachelor of Science graduation thesis (not published), [code](https://github.com/rayannott/wave_pde_analytical "WARNING: bad code")|
+|Jun 2022|Verification of Solutions to Wave Equations Using Integral Transformations|Bachelor thesis (not published), [code](https://github.com/rayannott/wave_pde_analytical "WARNING: bad code"), [text](files/BSc-thesis.pdf)|
 |Sep 2022|[Normal Vibrations of Sagging Conductors of Overhead Power Lines](https://doi.org/10.22337/2587-9618-2022-18-3-147-158)|Mechanics journal paper in colaboration with the Russian Academy of Sciences (RAS)|
-<!-- |.|.|.| -->
+|Jul 2025|Guiding the Unrolling Curricula of Autoregressive Neural Simulators|Master thesis (not published), [code](https://gitlab.lrz.de/00000000014B568C/masters-thesis.git), [text](files/MSc-thesis.pdf)|
 
 ## **Skills** 📚
 ### Human Languages
 | Language   |  Level |
 |----------|:-------:|
-| English |  [C1/C2](https://drive.google.com/file/d/1iolYW3rq6XkjpksnMkJvFKeyySMtdwK8/view?usp=sharing "IELTS band 8.0 (view certificate; WARNING: bad photo)") |
+| English |  C2 |
 | German | B2 |
 | Russian | native/bilingual|
 | Tatar | native/bilingual |
