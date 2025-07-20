@@ -54,6 +54,9 @@ My team solved the challenge problem of
 10. [TUM.ai Makeathon](https://makeathon.tum-ai.com/), Munich, Germany, Apr 2025.
     - We solved the OpenAI wild track challenge and built a secure wrapper around private company datasets for the student agents to pay-and-learn from it;
     - Take a look at our terrible code [here](https://github.com/kaandrmz/tumai-oai)!
+11. [EuroPython 2025](https://europython.eu/), Prague, Czech Republic, Jul 2025.
+    - Wonderful speakers, inspiring talks, I will definitely come again;
+    - I gave a lightning talk again (see gallery) -- this time on building [personal tools](https://github.com/rayannott/moviesdb) with python
 
 ### Research
 |Date|Title & Link|Notes|
@@ -227,7 +230,7 @@ more on badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
 <img title="START Hack (we won!)" src="./pictures/START-hack-we-won-yay.jpg"  width="49%">
 <img title="START Hack (we won AGAIN!)" src="./pictures/START-hack-we-won-again.jpeg"  width="45%">
 <img title="Syngenta kindly invited us to see their facilities in Italy because we won their case" src="./pictures/syngenta-trip-atessa.jpg"  width="49%">
-
+<img title="I gave a lightning talk on EuroPython 2025" src="./pictures/euro-python-lightning-talk.jpg"  width="45%">
 </p>
 
 Я осуждаю [агрессию России против Украины](https://ru.wikipedia.org/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%83_(%D1%81_2022)). Мир на Украине 🇺🇦. Свободу России 🇷🇺
