@@ -27,34 +27,34 @@ Let this `README.md` be my complete resume (not sure it's supposed to be that th
 ### Events
 1. [International Astronautical Congress 2022](https://iac2022.org/ "IAC2022 website") (IAC2022), Paris, France, Sep 2022. 
     - My team presented our research on reinforcement learning for attitude control of a spacecraft with flexible appendages (see [above](#research))
-2. [HackaTUM 2022](https://hack.tum.de/past-events/events-2022/ "HackaTUM 2022 website"), Munich, Germany, Nov 2022.
+2. 👨🏻‍💻 [HackaTUM 2022](https://hack.tum.de/past-events/events-2022/ "HackaTUM 2022 website"), Munich, Germany, Nov 2022.
     - My team solved the challenge problem of [_Rohde & Schwarz_](https://www.rohde-schwarz.com/ "Rohde & Schwarz website") about the microwave imaging technology (see code [here](https://github.com/rayannott/microwave-imaging "WARNING: bad code, just a prototype"))
 3. [Ferienakademie 2023](https://www.ferienakademie.de/ "Ferienakademie website"), Sarntal, South Tyrol, Italy, Sep 2023. (see the photos [below](#gallery))
     - I participated in the seminar course _"Stochastic Evolution Equations: From martingales to applications"_ by Prof. Dr. Johannes Zimmer and Prof. Dr. Günther Grün (see course description [here](https://www.math.cit.tum.de/math/forschung/gruppen/analysis-and-mathbio/teaching/fa2023/))
     - I gave a lecture on thermodynamic parametrization of the neural networks based on [this paper](https://www.aimsciences.org/article/doi/10.3934/fods.2019019) (my [code experiments](https://github.com/rayannott/ThermodynamicParameterizationOfNNs) for the talk)
     - I also went to many hikes and had a lot of quality time with my fellow students and professors <!-- (I hope they take me again next year 😋); upd: they didn't :( -->
-4. [HackaTUM 2023](https://hack.tum.de/past-events/events-2023/ "HackaTUM 2023 website"), Munich, Germany, Nov 2023. (see the photos [below](#gallery); I'm on the main page photo there)
+4. 👨🏻‍💻 [HackaTUM 2023](https://hack.tum.de/past-events/events-2023/ "HackaTUM 2023 website"), Munich, Germany, Nov 2023. (see the photos [below](#gallery); I'm on the main page photo there)
     - My team solved the challenge problem of [_Optiver_](https://www.optiver.com/ "Optiver website") about the market making with sentiment analysis on the news (sadly, I can't share the code because the organizers asked us not to)
-5. [PyCon Sweden 2024](https://www.pycon.se/ "pycon in Stockholm"), Stockholm, Sweden, Nov 2024.
+5. 🐍 [PyCon Sweden 2024](https://www.pycon.se/ "pycon in Stockholm"), Stockholm, Sweden, Nov 2024.
     - I attended the following talks and workshops: ... (see the source code for the comments: I hid them here because the list is too long);
     <!-- [Write Load Tests in Python and Run Them in the Cloud in 15 Minutes](https://pretalx.com/pyconse-2024/talk/RVU97H/), [Beyond the "Hello, World!"](https://pretalx.com/pyconse-2024/talk/CCPCRS/), [Let's goto work](https://pretalx.com/pyconse-2024/talk/EWW8ZJ/), [Documenting Python Code](https://pretalx.com/pyconse-2024/talk/X7DH3L/), [Get old, go slow, write code!](https://pretalx.com/pyconse-2024/talk/NVZQSS/), [Tech as a Gateway: Unlocking Opportunities for Women and Immigrants in the Digital Age](https://pretalx.com/pyconse-2024/talk/C9KQE3/), [A challenge of converting a project's core to asyncio](https://pretalx.com/pyconse-2024/talk/Q9QSKZ/), [It's About Time](https://pretalx.com/pyconse-2024/talk/QHFSDN/), [Parallel Python: Embracing the Future with Sub-Interpreters and Free Threading](https://pretalx.com/pyconse-2024/talk/Q9QSKZ/); [Launching, failing & growing AI business & teams through challeges & AI trends](https://pretalx.com/pyconse-2024/talk/DWKHFC/), [Accidentally popular: Beautiful CLI interfaces with rich-click](https://pretalx.com/pyconse-2024/talk/XP7GWN/), [Advanced parsing of structured data using Python's new match statement](https://pretalx.com/pyconse-2024/talk/JPZ7WK/), [Query your structured data with a LangChain AI agent](https://pretalx.com/pyconse-2024/talk/JTYDDY/), [Building Python based AI Systems with LLMs](https://pretalx.com/pyconse-2024/talk/SYQP9E/), [Boring Releases: How We Ship Every Week Without Drama](https://pretalx.com/pyconse-2024/talk/T8AWNE/), [Controlling lab and production equipment with Python](https://pretalx.com/pyconse-2024/talk/D3GPCM/) -->
     - I gave a quick lightning talk "**Should** We Use AI for Everything?"
-6. [HackaTUM 2024](https://hack.tum.de/), Munich, Germany, Nov 2024. ([photos](#gallery))
+6. 👨🏻‍💻 [HackaTUM 2024](https://hack.tum.de/), Munich, Germany, Nov 2024. ([photos](#gallery))
 My team solved the challenge problem of 
     - [Optiver](https://www.optiver.com/) (again!) about the market making with a twist we were asked not to share :) 
     - [Solana](https://solana.com/): chess on blockchain with smart contracts
-7. [PyData Global 2024](https://pydata.org/global2024/), _virtual_, Dec 2024.
-8. 🥇 [START Hack Munich](https://www.startmunich.de/), Munich, Germany, Dec 2024. ([photos](#gallery))
+7. 🐍 [PyData Global 2024](https://pydata.org/global2024/), _virtual_, Dec 2024.
+8. 👨🏻‍💻🥇 [START Hack Munich](https://www.startmunich.de/), Munich, Germany, Dec 2024. ([photos](#gallery))
     - My teammates and I solved the DELL's challenge: we've developed the AI-chatbots for the startup aggregator using `svelte` for the frontend and `langchain`/`openai` with `fastapi` for the backend
     - _AND we actually won it!_ 🎉 (see the devpost page [here](https://devpost.com/software/dell-hackstreet-boys))
     - Take a look at the backend [here](https://github.com/rayannott/dell-chatbot) (when and if we take it public that is — the negotiations with DELL contunue about selling the solution)
-9. 🥇 [START Hack St. Gallen](https://www.startglobal.org/start-hack/home/), St. Gallen, Switzerland, Mar 2025. ([photos](#gallery))
+9. 👨🏻‍💻🥇 [START Hack St. Gallen](https://www.startglobal.org/start-hack/home/), St. Gallen, Switzerland, Mar 2025. ([photos](#gallery))
     - My team and I solved the challenge of Syngenta about the data-driven recommendation app for the farmers; once again, we used `svelte` for the frontend and `fastapi` for the backend, as well as linking the company-provided data to make the recommendations
     - _AND we won it (**yes, again**)!_ 🎉 (see the devpost page [here](https://start-hack-2025.devpost.com/))
-10. [TUM.ai Makeathon](https://makeathon.tum-ai.com/), Munich, Germany, Apr 2025.
+10. 👨🏻‍💻 [TUM.ai Makeathon](https://makeathon.tum-ai.com/), Munich, Germany, Apr 2025.
     - We solved the OpenAI wild track challenge and built a secure wrapper around private company datasets for the student agents to pay-and-learn from it;
     - Take a look at our terrible code [here](https://github.com/kaandrmz/tumai-oai)!
-11. [EuroPython 2025](https://europython.eu/), Prague, Czech Republic, Jul 2025.
+11. 🐍 [EuroPython 2025](https://europython.eu/), Prague, Czech Republic, Jul 2025.
     - Wonderful speakers, inspiring talks, I will definitely come again;
     - I gave a lightning talk again (see gallery) -- this time on building [personal tools](https://github.com/rayannott/moviesdb) with python
 
