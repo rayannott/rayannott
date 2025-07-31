@@ -56,7 +56,10 @@ My team solved the challenge problem of
     - Take a look at our terrible code [here](https://github.com/kaandrmz/tumai-oai)!
 11. 🐍 [EuroPython 2025](https://europython.eu/), Prague, Czech Republic, Jul 2025.
     - Wonderful speakers, inspiring talks, I will definitely come again;
-    - I gave a lightning talk again (see gallery) -- this time on building [personal tools](https://github.com/rayannott/moviesdb) with python
+    - I gave a lightning talk again (see gallery) -- this time on building [personal tools](https://github.com/rayannott/moviesdb) with Python
+12. 🐍 [pytest](https://pyte.st/) workshop, Munich, Germany, Jul 2025.
+    - A workshop on pytest — a testing framework for Python
+    - Back at the EuroPython, [Florian Bruhin](https://bruhin.software/) gave a talk on testing but I coundn't make it then; so, I attended his workshop hosted in the Entrix & flexa office
 
 ### Research
 |Date|Title & Link|Notes|
