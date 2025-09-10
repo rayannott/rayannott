@@ -85,28 +85,33 @@ My team solved the challenge problem of
 Colour coding: 
 🟣 expert, 🟢 proficient, 🟠 advanced, 🔵 competent, ⚪ beginner.
 #### Programming languages
-- 🟣 Python
-    - 🟣 `pathlib`, `itertools`, `functools`, `dataclasses`, etc. (almost the entire standard library)
-    - 🟣 `numpy` 🟣 `scipy` 🟣 `matplotlib`
+- 🟣 Python!
+    - 🟣 `pathlib`, `itertools`, `functools`, `dataclasses`, etc. (basically the entire standard library)
+    - 🟣 `numpy` 🟣 `scipy` 🟣 `matplotlib` 🟣 `sympy`
     - 🟣 `plotly`
-    - 🟣 `sympy`
+    - 🟢 `uv`
     - 🟢 `pytorch`
     - 🟢 `pandas`
-    - 🟢 `pygame`, `pygame-gui`
+    - 🟢 `pygame`, 🟢 `pygame-gui`
+    - 🟢 `rich` 🟢 `click` 🟢 `rich-click`
+    - 🟢 `pytest`
+    - 🟢 `pydantic`
+    - 🟠 `telebot`
     - 🟠 `plotly dash`, `dmc`
-    - 🟠 `pytest`
     - 🟠 `scikit-learn`
     - 🟠 `sqlite3`, `sqlalchemy`
-    - 🟠 `openai` 🔵 `langchain`  (prompt engineering, pydantic-structured outputs)
-    - 🟠 `rich` 🟠 `click` 🟠 `telebot`
+    - 🟠 `fastapi`
+    - 🟠 `requests`, 🟠 `urllib`, 🔵 `http`
+    - 🟠 `openai` 🔵 `langchain`
+    - 🟠 `boto3`
     - 🔵 `tkinter` 🔵 `streamlit` 🔵 `PyQt`
-    - 🔵 `fastapi` `pyTelegramBotAPI`
     - 🔵 `pyspark`, `apache-airflow`
-    - 🔵 `flask`
-    - ⚪ `pymongo`
+    - 🔵 `pymongo` 🔵 `supabase`
+    - ⚪ `aws_cdk`
     - other: `google` api, `beautifulsoup`, `crontab`, etc. (basically any as long as there's a decent documentation)
 - 🟠 SQL
 - 🟠 C++ (`omp`, `MPI`, `SIMD`, `Qt`)
+- 🔵 shell
 - 🔵 MATLAB
 - ⚪ Rust, R, Julia
 
@@ -117,13 +122,13 @@ Colour coding:
 - 🟢 signal processing, information retrieval
 - 🟢 git (in GitHub[actions, PR, issues, etc.], GitLab, TFS)
 - 🟢 $\LaTeX$
+- 🟠 Docker
 - 🟠 ETL/ELT
-- 🟠 MSOffice/LibreOffice...
-- 🟠 Linux (Ubuntu, Fedora [Desktop], Amazon Linux, WSL)
+- 🟠 Linux (Ubuntu [Desktop], Fedora [Desktop], Amazon Linux, WSL)
+- 🔵 AWS (EC2, lambdas, S3)
 - 🔵 Data Processing (Apache Spark)
-- 🔵 Docker
-- 🔵 SolidWorks, Figma
-- ⚪ AWS (EC2, lambdas, S3)
+- 🔵 Draw.io, SolidWorks, Figma
+- ⚪ Bruno
 - ⚪ Azure DevOps (formerly TFS)
 
 ## Courses
