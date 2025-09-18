@@ -8,7 +8,7 @@ Let this `README.md` be my complete resume (not sure it's supposed to be that th
 |:-------------------:|:-------------:|:------:|:-----:|
 | Sep 2007 - Aug 2018 |  Liceum 146, Kazan | just a normal high school (grade 1.2) | [-link-](https://edu.tatar.ru/nsav/licey146) |
 | Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  `BSc` Applied Mathematics and Physics (grade 1.5) | [mipt.ru](https://mipt.ru/english/) [wiki](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) |
-| Oct 2022 - Jul 2025 | Technical University of Munich | `MSc` Informatics, Computational Science and Engineering (grade ~1.7) | [tum.de](https://www.tum.de/en/) [wiki](https://en.wikipedia.org/wiki/Technical_University_of_Munich) |
+| Oct 2022 - Jul 2025 | Technical University of Munich | `MSc` Informatics, Computational Science and Engineering (grade 1.6) | [tum.de](https://www.tum.de/en/) [wiki](https://en.wikipedia.org/wiki/Technical_University_of_Munich) |
 
 
 ## **Work, research and more** 🧑‍💻
@@ -126,7 +126,6 @@ Colour coding:
 - 🟠 ETL/ELT
 - 🟠 Linux (Ubuntu [Desktop], Fedora [Desktop], Amazon Linux, WSL)
 - 🔵 AWS (EC2, lambdas, S3)
-- 🔵 Data Processing (Apache Spark)
 - 🔵 Draw.io, SolidWorks, Figma
 - ⚪ Bruno
 - ⚪ Azure DevOps (formerly TFS)
@@ -154,10 +153,11 @@ Here are _some_ courses I took during my bachelor's and master's studies:
 Fortunately, there is a ton of freely available courses on the internet: YouTube, Coursera, edX have quite a lot of content; some universities also have open courses on their websites.
 Here are some of the courses I took:
 - [DeepMind x UCL | Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb) by Hado Van Hasselt
+- [AWS Certified Cloud Practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) by Stephane Maarek
 
 
 ## **Interests** 🎨
-- piano (check out [this clip](https://youtube.com/clip/UgkxlRIhGJqhNfKIHo6oJgLqtGlehYs2RzR_?si=ztX3tDY_P7VGRzS1 "Chopin - Nocturne Op. 9 No. 2")) and guitar
+- piano (check out [this clip](https://youtube.com/clip/UgkxlRIhGJqhNfKIHo6oJgLqtGlehYs2RzR_?si=ztX3tDY_P7VGRzS1 "Chopin - Nocturne Op. 9 No. 2")), guitar, and a bit of drums
 - teaching ([coding](https://github.com/rayannott/teaching-coding), for example; there's also math olympiades, but it's all in Russian)
 - learning
 - swimming, cycling and hiking (occasionally, jogging)
