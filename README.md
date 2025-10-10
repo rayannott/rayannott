@@ -197,6 +197,7 @@ and actually use (in no particular order):
 - [desmos](https://www.desmos.com/) - a collection of free math tools
 - [7zip](https://www.7-zip.org/) - please don't use winrar
 - [obs](https://obsproject.com/) - an open source software for video recording and live streaming
+- [photopea](https://www.photopea.com/) - a free web-based image editor
 - [rawtherapee](https://www.rawtherapee.com/) - an open source raw image processing software
 - [regexlearn](https://regexlearn.com/) - an interactive platform for learning regular expressions
 - [factorio](https://factorio.com/) - the best factory-building video game about logistics, resource management and optimization
