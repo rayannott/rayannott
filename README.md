@@ -189,7 +189,7 @@ Send me an email: airat.valiullin@tum.de or
 ## **Projects I Endorse**
 and actually use (in no particular order):
 - [python](https://www.python.org/) - a programming language made for humans
-- [rich](https://github.com/Textualize/rich) - a Python library for rich text and beautiful formatting in the terminal
+- [rich](https://github.com/Textualize/rich) - a Python library for rich text and beautiful formatting in the terminal (see also [rich_click](https://ewels.github.io/rich-click/latest/))
 - [project euler](https://projecteuler.net/) - a collection of math+coding problems
 - [daylio](https://daylio.net/) - a digital diary (with an "export as table" feature that empowered [this](https://github.com/rayannott/daylio-analysis))
 - [ticktick](https://www.ticktick.com/home) - a digital planner and tasks tracker
@@ -201,6 +201,7 @@ and actually use (in no particular order):
 - [rawtherapee](https://www.rawtherapee.com/) - an open source raw image processing software
 - [regexlearn](https://regexlearn.com/) - an interactive platform for learning regular expressions
 - [factorio](https://factorio.com/) - the best factory-building video game about logistics, resource management and optimization
+- [linear](https://linear.app/) - a very good all-in-one issue tracking and project management app with amazing tool integration
 ### YouTube Channels
 I can't stress enough how much amazing free content there is on YouTube, and here are some of my favorite channels:
 - [numberphile](https://www.youtube.com/@numberphile) - popular maths
