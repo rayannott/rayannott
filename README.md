@@ -1,6 +1,6 @@
 # Airat Valiullin 👋
-You've reached my personal GitHub page!\
-Let this `README.md` be my complete resume (not sure it's supposed to be that though). Also check out my traditional one-page CV [here](files/CV.pdf).
+Mathematician turned Software Developer.
+<span style="font-size: 0.95em; color: #888;">Also check out my traditional one-page CV [here](files/CV.pdf). </span>
 
 
 ## **Education** 🎓
@@ -19,9 +19,9 @@ Let this `README.md` be my complete resume (not sure it's supposed to be that th
 |Mar 2021 - Oct 2023|Research Assistant|[Russian Academy of Sciences](https://new.ras.ru/en/) & [Institute of Applied Mechanics](https://iam.ras.ru)| Coauthored research papers on the nonlinear vibrations of overhead power lines. Conducted numerical experiments and validated the results. |
 |Jun 2022 - Oct 2022|Student Intern|[Schlumberger Moscow Research Center](https://www.slb.com/)| Sketched numerical algorithms for solving the inverse acoustics problem. | 
 |Feb 2023 - Oct 2023|HIWI Student|[TUM Robotics Lab](https://www.ce.cit.tum.de/en/air/home/)| Worked on a motion planning framework (MoveIt) to ensure save human-robot interaction. Assisted with motion capturing live data; analysed and visualized the sensor data. |
-|Apr 2024 - May 2024|Software Developer|_freelance_| Developed a telegram bot for a local business (see [here](https://github.com/rayannott/wizard-club-bot) if I ever take it public). Set everything up from scratch: telegram API, database **ORM**, **logging**, google sheets API, etc. |
-|Jan 2024 - Jul 2025|Working Student|[ASMPT Germany](https://smt.asmpt.com/en/)| Developed dashboards for tracking unit test coverage, build reports, developer activity and other critical information; implemented multiprocessing, logging, and automated data updates; collaborated with colleagues on layout design and debugging; deployed. Analyzed extensive multiterrabyte bug report data and built a database for faster access and processing; established a **ETL** pipeline. Conducted numerical analysis, solving relaxation problems using Newton's method, improving the optimization process, and handling test set generation. Performed learning on component images for error prediction (**MLOps**). |
-|Aug 2025 - present|Software Developer (Cloud)|[Entrix](https://www.entrixenergy.com/en/home/)| |
+|Apr 2024 - May 2024|Software Developer|_freelance_| Developed a telegram bot for a local business (see [here](https://github.com/rayannott/wizard-club-bot) if I ever take it public). Set everything up from scratch: telegram API, database ORM, logging, google API, etc. |
+|Jan 2024 - Jul 2025|Working Student|[ASMPT Germany](https://smt.asmpt.com/en/)| Developed dashboards for tracking unit test coverage, build reports, developer activity and other critical information; implemented multiprocessing, logging, and automated data updates; collaborated with colleagues on layout design and debugging; deployed. Analyzed extensive multiterrabyte bug report data and built a database for faster access and processing; established an ETL pipeline. Conducted numerical analysis, improving the optimization process, and handling test set generation. Performed learning on component images for error prediction (**MLOps**). |
+|Aug 2025 - present|Software Developer (Cloud)|[Entrix](https://www.entrixenergy.com/en/home/)| Building fast and **not** breaking things! |
 
 
 ### Events
@@ -85,50 +85,26 @@ My team solved the challenge problem of
 Colour coding: 
 🟣 expert, 🟢 proficient, 🟠 advanced, 🔵 competent, ⚪ beginner.
 #### Programming languages
-- 🟣 Python!
-    - 🟣 `pathlib`, `itertools`, `functools`, `dataclasses`, etc. (basically the entire standard library)
-    - 🟣 `numpy` 🟣 `scipy` 🟣 `matplotlib` 🟣 `sympy`
-    - 🟣 `plotly`
-    - 🟢 `uv`
-    - 🟢 `pytorch`
-    - 🟢 `pandas`
-    - 🟢 `pygame`, 🟢 `pygame-gui`
-    - 🟢 `rich` 🟢 `click` 🟢 `rich-click`
-    - 🟢 `pytest`
-    - 🟢 `pydantic`
-    - 🟠 `telebot`
-    - 🟠 `plotly dash`, `dmc`
-    - 🟠 `scikit-learn`
-    - 🟠 `sqlite3`, `sqlalchemy`
-    - 🟠 `fastapi`
-    - 🟠 `requests`, 🟠 `urllib`, 🔵 `http`
-    - 🟠 `openai` 🔵 `langchain`
-    - 🟠 `boto3`
-    - 🔵 `tkinter` 🔵 `streamlit` 🔵 `PyQt`
-    - 🔵 `pyspark`, `apache-airflow`
-    - 🔵 `pymongo` 🔵 `supabase`
-    - ⚪ `aws_cdk`
-    - other: `google` api, `beautifulsoup`, `crontab`, etc. (basically any as long as there's a decent documentation)
+- 🟣 Python! (yes, the whole stack)
 - 🟠 SQL
 - 🟠 C++ (`omp`, `MPI`, `SIMD`, `Qt`)
 - 🔵 shell
-- 🔵 MATLAB
-- ⚪ Rust, R, Julia
+- 🔵 MATLAB, Rust, R, Julia
 
 #### Other
 - 🟣 VSCode
-- 🟣 creating lists in markdown
-- 🟢 algorithms, data structures
+- 🟣 algorithms, data structures
+- 🟢 AWS and `cdk` (esp. python)
+- 🟢 CD/CI
+- 🟢 Linear, Notion, Slack
+- 🟢 NoSQL (mongodb, dynamodb)
 - 🟢 signal processing, information retrieval
 - 🟢 git (in GitHub[actions, PR, issues, etc.], GitLab, TFS)
+- 🟢 Linux (Fedora 💚, Ubuntu, Amazon Linux, WSL and more)
 - 🟢 $\LaTeX$
-- 🟠 Docker
+- 🟢 Docker
 - 🟠 ETL/ELT
-- 🟠 Linux (Ubuntu [Desktop], Fedora [Desktop], Amazon Linux, WSL)
-- 🔵 AWS (EC2, lambdas, S3)
 - 🔵 Draw.io, SolidWorks, Figma
-- ⚪ Bruno
-- ⚪ Azure DevOps (formerly TFS)
 
 ## Courses
 ### University Courses
