@@ -1,6 +1,7 @@
 # Airat Valiullin 👋
 Mathematician turned Software Developer.
-<span style="font-size: 0.95em; color: #888;">Also check out my traditional one-page CV [here](files/CV.pdf). </span>
+
+(Also check out my traditional one-page CV [here](files/CV.pdf).)
 
 
 ## **Education** 🎓
