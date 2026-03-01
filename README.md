@@ -1,17 +1,10 @@
 # Airat Valiullin 👋
 Mathematician turned Software Developer.
 
-(Also check out my traditional one-page CV [here](files/CV.pdf).)
+(Also check out my traditional one-page CV [here](files/CV.pdf) or my one-page business card at [airatvaliullin.com](https://airatvaliullin.com))
 
 
-## **Education** 🎓
-|        Period       |      School   |  Programm | Website |
-|:-------------------:|:-------------:|:------:|:-----:|
-| Sep 2007 - Aug 2018 |  Liceum 146, Kazan | just a normal high school (grade 1.2) | [-link-](https://edu.tatar.ru/nsav/licey146) |
-| Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  `BSc` Applied Mathematics and Physics (grade 1.5) | [mipt.ru](https://mipt.ru/english/) [wiki](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) |
-| Oct 2022 - Jul 2025 | Technical University of Munich | `MSc` Informatics, Computational Science and Engineering (grade 1.6) | [tum.de](https://www.tum.de/en/) [wiki](https://en.wikipedia.org/wiki/Technical_University_of_Munich) |
-
-
+![](https://komarev.com/ghpvc/?username=rayannott&style=flat-square)
 ## **Work, research and more** 🧑‍💻
 ### Work Experience
 | Period | Position | Company | Description |
@@ -70,6 +63,15 @@ My team solved the challenge problem of
 |Sep 2022|[Normal Vibrations of Sagging Conductors of Overhead Power Lines](https://doi.org/10.22337/2587-9618-2022-18-3-147-158)|Mechanics journal paper in colaboration with the Russian Academy of Sciences (RAS)|
 |Jul 2025|Guiding the Unrolling Curricula of Autoregressive Neural Simulators|Master thesis (not published), [code](https://gitlab.lrz.de/00000000014B568C/masters-thesis.git), [text](files/MSc-thesis.pdf)|
 
+
+## **Education** 🎓
+|        Period       |      School   |  Programm | Website |
+|:-------------------:|:-------------:|:------:|:-----:|
+| Sep 2007 - Aug 2018 |  Liceum 146, Kazan | just a normal high school (grade 1.2) | [-link-](https://edu.tatar.ru/nsav/licey146) |
+| Sep 2018 - Aug 2022 |    Moscow Institute of Physics and Technology   |  `BSc` Applied Mathematics and Physics (grade 1.5) | [mipt.ru](https://mipt.ru/english/) [wiki](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) |
+| Oct 2022 - Jul 2025 | Technical University of Munich | `MSc` Informatics, Computational Science and Engineering (grade 1.6) | [tum.de](https://www.tum.de/en/) [wiki](https://en.wikipedia.org/wiki/Technical_University_of_Munich) |
+
+
 ## **Skills** 📚
 ### Human Languages
 | Language   |  Level |
@@ -80,9 +82,6 @@ My team solved the challenge problem of
 | Tatar | native/bilingual |
 
 ### Technical Skills
-> [!NOTE]
-> _I'm not a big fan of how this section looks like. Please, submit your formatting suggestion here: https://github.com/rayannott/rayannott/issues/1._
-
 Colour coding: 
 🟣 expert, 🟢 proficient, 🟠 advanced, 🔵 competent, ⚪ beginner.
 #### Programming languages
@@ -194,12 +193,12 @@ I can't stress enough how much amazing free content there is on YouTube, and her
 - [StuffMadeHere](https://www.youtube.com/@StuffMadeHere) - DIY, overcooked
 - [TechnologyConnections](https://www.youtube.com/@TechnologyConnections) - the technology behind everyday devices
 - [EthanChlebowski](https://www.youtube.com/@EthanChlebowski) - cooking
+### Just cool links
+- https://visualrambling.space/
 
 ## **My GitHub Summary** 
-![image](https://github-profile-trophy.vercel.app/?username=rayannott&theme=tokyonight)
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayannott&theme=tokyonight)
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=rayannott&theme=tokyonight)
-![](https://komarev.com/ghpvc/?username=rayannott&style=flat-square)
 
 more on badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
 
