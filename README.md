@@ -86,6 +86,7 @@ Colour coding:
 🟣 expert, 🟢 proficient, 🟠 advanced, 🔵 competent, ⚪ beginner.
 #### Programming languages
 - 🟣 Python! (yes, the whole stack)
+- 🟣 English (prompt engineering is also programming)
 - 🟠 SQL
 - 🟠 C++ (`omp`, `MPI`, `SIMD`, `Qt`)
 - 🔵 shell
